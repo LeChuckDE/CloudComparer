@@ -20,7 +20,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -48,7 +48,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -76,7 +76,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -292,7 +292,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "39",
                     "Yes",
@@ -384,7 +384,7 @@
             {
                 "name": "Azure Dedicated Host",
                 "ref": "https://azure.microsoft.com/en-in/services/virtual-machines/dedicated-host/",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "39",
                     "Yes",
@@ -878,7 +878,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -918,7 +918,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -1133,7 +1133,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -1908,7 +1908,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -1922,7 +1922,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -2503,7 +2503,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -2604,7 +2604,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -2790,7 +2790,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -2903,7 +2903,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -2917,7 +2917,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -2931,7 +2931,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3004,7 +3004,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -3058,7 +3058,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3103,7 +3103,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -3117,7 +3117,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -3305,7 +3305,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -3319,7 +3319,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -3333,7 +3333,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3347,7 +3347,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3361,7 +3361,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3420,7 +3420,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -3434,7 +3434,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3448,7 +3448,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3462,7 +3462,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3949,7 +3949,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -3977,7 +3977,7 @@
             {
                 "name": "OCI Traffic Management",
                 "ref": "https://www.oracle.com/cloud/networking/traffic-management.html",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3991,7 +3991,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -4022,7 +4022,7 @@
         {
           "name": "AWS Outposts",
           "ref": "https://aws.amazon.com/outposts/",
-          "icon": "none.png",
+          "icon": "",
           "Properties": [
               "Yes",
               "To be added",
@@ -4036,7 +4036,7 @@
         {
           "name": "Azure Arc",
           "ref": "https://azure.microsoft.com/en-in/services/azure-arc/",
-          "icon": "none.png",
+          "icon": "",
           "Properties": [
               "Yes",
               "To be added",
@@ -4050,7 +4050,7 @@
         {
           "name": "",
           "ref": "",
-          "icon": "none.png",
+          "icon": "",
           "Properties": [
               "Yes",
               "To be added",
@@ -4064,7 +4064,7 @@
         {
           "name": "",
           "ref": "",
-          "icon": "none.png",
+          "icon": "",
           "Properties": [
               "Yes",
               "To be added",
@@ -4078,7 +4078,7 @@
         {
           "name": "Cloud At Customer",
           "ref": "https://www.oracle.com/cloud/cloud-at-customer.html",
-          "icon": "none.png",
+          "icon": "",
           "Properties": [
               "Yes",
               "To be added",
@@ -4092,7 +4092,7 @@
           {
               "name": "",
               "ref": "",
-              "icon": "none.png",
+              "icon": "",
               "Properties": [
                   "Yes",
                   "To be added",
@@ -4563,7 +4563,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -4748,7 +4748,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -4807,7 +4807,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -4821,7 +4821,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -4849,7 +4849,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5340,7 +5340,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5451,7 +5451,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -5465,7 +5465,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5538,7 +5538,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -5552,7 +5552,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -5566,7 +5566,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5580,7 +5580,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5594,7 +5594,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5679,7 +5679,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5693,7 +5693,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5707,7 +5707,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5778,7 +5778,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -5792,7 +5792,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -5977,7 +5977,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6086,7 +6086,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -6100,7 +6100,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -6114,7 +6114,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6142,7 +6142,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6213,7 +6213,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -6227,7 +6227,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6241,7 +6241,7 @@
             {
                 "name": "Oracle Database Backup",
                 "ref": "https://cloud.oracle.com/en_US/database-backup/features",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6451,7 +6451,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -6493,7 +6493,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6552,7 +6552,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -6580,7 +6580,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6717,7 +6717,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6878,7 +6878,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7003,7 +7003,7 @@
             {
                 "name": "Identity Cloud Service",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7076,7 +7076,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -7104,7 +7104,7 @@
             {
                 "name": "Audit",
                 "ref": "https://cloud.oracle.com/en_US/cloud-security/audit/features",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7118,7 +7118,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7205,7 +7205,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7278,7 +7278,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -7306,7 +7306,7 @@
             {
                 "name": "Web Application Firewall",
                 "ref": "https://www.oracle.com/cloud/security/cloud-services/web-application-firewall.html",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7351,7 +7351,7 @@
             {
                 "name": "AWS Firewall Manager",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7365,7 +7365,7 @@
             {
                 "name": "Azure Firewall Manager",
                 "ref": "https://azure.microsoft.com/en-in/services/firewall-manager/",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7379,7 +7379,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7393,7 +7393,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7407,7 +7407,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7421,7 +7421,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7494,7 +7494,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7508,7 +7508,7 @@
             {
                 "name": "Compliance",
                 "ref": "https://cloud.oracle.com/en_US/cloud-compliance",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7609,7 +7609,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7795,7 +7795,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -7823,7 +7823,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7837,7 +7837,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7962,7 +7962,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -8049,7 +8049,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -8580,7 +8580,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -8594,7 +8594,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -8717,7 +8717,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -8731,7 +8731,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -8854,7 +8854,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9015,7 +9015,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9130,7 +9130,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9332,7 +9332,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9391,7 +9391,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -9419,7 +9419,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9433,7 +9433,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9478,7 +9478,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -9492,7 +9492,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -9506,7 +9506,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9520,7 +9520,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9534,7 +9534,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9619,7 +9619,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9633,7 +9633,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9647,7 +9647,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9720,7 +9720,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9734,7 +9734,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9748,7 +9748,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9883,7 +9883,7 @@
             {
                 "name": "Functions",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9897,7 +9897,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -9998,7 +9998,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10133,7 +10133,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10326,7 +10326,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10354,7 +10354,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10588,7 +10588,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10616,7 +10616,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10630,7 +10630,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10675,7 +10675,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10689,7 +10689,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10818,7 +10818,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10863,7 +10863,7 @@
             {
                 "name": "Amazon Managed Blockchain",
                 "ref": "https://aws.amazon.com/managed-blockchain/",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10875,7 +10875,7 @@
             {
                 "name": "Amazon Quantum Ledger Database (QLDB)",
                 "ref": "https://aws.amazon.com/qldb/",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10913,7 +10913,7 @@
             {
                 "name": "Azure Blockchain Tokens",
                 "ref": "https://azure.microsoft.com/en-in/services/blockchain-tokens/",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10927,7 +10927,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -11028,7 +11028,7 @@
             {
                 "name": "Dialogflow",
                 "ref": "https://dialogflow.com/",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -11167,7 +11167,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11181,7 +11181,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11195,7 +11195,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11240,7 +11240,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -11254,7 +11254,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -11268,7 +11268,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11282,7 +11282,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11296,7 +11296,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11593,7 +11593,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -11621,7 +11621,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11635,7 +11635,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11694,7 +11694,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -11708,7 +11708,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11722,7 +11722,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11736,7 +11736,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11795,7 +11795,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -11823,7 +11823,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11837,7 +11837,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11868,7 +11868,7 @@
             {
                 "name": "AWS RoboMaker",
                 "ref": "https://aws.amazon.com/robomaker/",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11882,7 +11882,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11896,7 +11896,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -11910,7 +11910,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11924,7 +11924,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11938,7 +11938,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11997,7 +11997,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -12011,7 +12011,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -12025,7 +12025,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -12039,7 +12039,7 @@
             {
                 "name": "",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
