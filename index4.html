@@ -42,7 +42,7 @@
         <th>Service</th>
         <th>AWS</th>
         <th>Azure</th>
-        <th>GCP</th>
+       <!-- <th>GCP</th>-->
         <th>OCI</th>
     </thead>
 </table>
@@ -68,7 +68,7 @@
               trHTML += '<td>' + value.service.name + '</td>';
               trHTML += dataprocessor(value.aws,'aws');
               trHTML += dataprocessor(value.azure,'azure');
-              trHTML += dataprocessor(value.google,'gcp');
+              //trHTML += dataprocessor(value.google,'gcp');
              // trHTML += dataprocessor(value.ibm, 'ibm');
               trHTML += dataprocessor(value.oracle, 'oracle');
               trHTML += '</tr>'
