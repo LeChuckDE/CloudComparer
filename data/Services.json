@@ -4131,18 +4131,6 @@
                     "To be added",
                     "To be added"
                 ]
-            },
-            {
-                "name": "AWS Private Link",
-                "ref": "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-privatelink-in-the-eu-paris-region/",
-                "icon": "Networking_AWSDirectConnect.png",
-                "Properties": [
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
             }
         ],
         "azure": [
@@ -4216,13 +4204,117 @@
             }
         ]
     },
+
     {
         "category": {
             "name": "Networking & Content Delivery",
             "ref": ""
         },
         "service": {
-            "name": "Load Balancers",
+            "name": "Private Link",
+            "ref": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+
+            {
+                "name": "AWS Private Link",
+                "ref": "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-privatelink-in-the-eu-paris-region/",
+                "icon": "Networking_AWSDirectConnect.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Private Link",
+                "ref": "",
+                "icon": "",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+
+    {
+        "category": {
+            "name": "Networking & Content Delivery",
+            "ref": ""
+        },
+        "service": {
+            "name": "Load Balancers (L4)",
             "ref": "https://en.wikipedia.org/wiki/Load_balancing_(computing)",
             "Properties": [
                 "To be added",
@@ -4329,6 +4421,122 @@
             }
         ]
     },
+
+
+    {
+        "category": {
+            "name": "Networking & Content Delivery",
+            "ref": ""
+        },
+        "service": {
+            "name": "Load Balancers (L7)",
+            "ref": "https://en.wikipedia.org/wiki/Load_balancing_(computing)",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "Elastic Load Balancing",
+                "ref": "https://aws.amazon.com/elasticloadbalancing/",
+                "icon": "aws.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Load Balancer",
+                "ref": "https://azure.microsoft.com/en-in/services/load-balancer/",
+                "icon": "Azure load balancer (automatic).png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "Cloud Load Balancing",
+                "ref": "https://cloud.google.com/load-balancing/",
+                "icon": "Cloud-Load-Balancing.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "IBM Cloud Load Balancing",
+                "ref": "https://cloud.ibm.com/catalog/infrastructure/load-balancer-group",
+                "icon": "ibmcloud.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Citrix NetScaler VPX",
+                "ref": "https://cloud.ibm.com/catalog/infrastructure/load-balancer-group",
+                "icon": "ibmcloud.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "Oracle Load Balancer",
+                "ref": "https://cloud.oracle.com/load-balancing",
+                "icon": "LoadBalancing.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "Server Load Balancer",
+                "ref": "https://www.alibabacloud.com/product/server-load-balancer",
+                "icon": "SLB.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+
     {
         "category": {
             "name": "Developer Tools",
