@@ -3977,7 +3977,7 @@
             {
                 "name": "OCI Traffic Management",
                 "ref": "https://www.oracle.com/cloud/networking/traffic-management.html",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -4078,7 +4078,7 @@
         {
           "name": "Cloud At Customer",
           "ref": "https://www.oracle.com/cloud/cloud-at-customer.html",
-          "icon": "oci.png",
+          "icon": "oracle.png",
           "Properties": [
               "Yes",
               "To be added",
@@ -6437,7 +6437,7 @@
             {
                 "name": "Oracle Database Backup",
                 "ref": "https://cloud.oracle.com/en_US/database-backup/features",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7199,7 +7199,7 @@
             {
                 "name": "OCI Key Management",
                 "ref": "https://www.oracle.com/cloud/security/cloud-services/key-management.html",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7300,7 +7300,7 @@
             {
                 "name": "Audit",
                 "ref": "https://cloud.oracle.com/en_US/cloud-security/audit/features",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7502,7 +7502,7 @@
             {
                 "name": "Web Application Firewall",
                 "ref": "https://www.oracle.com/cloud/security/cloud-services/web-application-firewall.html",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7704,7 +7704,7 @@
             {
                 "name": "Compliance",
                 "ref": "https://cloud.oracle.com/en_US/cloud-compliance",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10079,7 +10079,7 @@
             {
                 "name": "Functions",
                 "ref": "",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11127,7 +11127,7 @@
             {
                 "name": "Oracle Blockchain",
                 "ref": "https://cloud.oracle.com/en_US/blockchain",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11228,7 +11228,7 @@
             {
                 "name": "Oracle DB Blockchain Tables (Announcement)",
                 "ref": "https://blogs.oracle.com/blockchain/blockchain-tables-in-oracle-database:-technology-convergence",
-                "icon": "oci.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
