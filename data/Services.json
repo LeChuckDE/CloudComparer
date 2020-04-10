@@ -529,9 +529,9 @@
         ],
         "oracle": [
             {
-                "name": "Oracle Cloud Infrastructure Registry",
+                "name": "OCI Container Registry",
                 "ref": "https://cloud.oracle.com/containers/registry",
-                "icon": "compute.png",
+                "icon": "OCI_Container_grey_256x256.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -1696,9 +1696,9 @@
         ],
         "oracle": [
             {
-                "name": "Oracle Cloud Infrastructure File Storage",
+                "name": "OCI File Storage",
                 "ref": "https://cloud.oracle.com/storage/file-storage/features",
-                "icon": "storage.png",
+                "icon": "OCI_FileStorage_grey_256x256.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6197,19 +6197,7 @@
         ],
         "oracle": [
             {
-                "name": "Oracle Public Cloud CLI",
-                "ref": "",
-                "icon": "oracle.png",
-                "Properties": [
-                    "Yes",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            },
-            {
-                "name": "Oracle Cloud Infrastructure CLI",
+                "name": "OCI CLI",
                 "ref": "",
                 "icon": "oracle.png",
                 "Properties": [
