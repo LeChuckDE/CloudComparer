@@ -2661,8 +2661,8 @@
         ],
         "azure": [
             {
-                "name": "Azure SQL Data Warehouse",
-                "ref": "https://azure.microsoft.com/en-in/services/sql-data-warehouse/",
+                "name": "Azure Synapse Analytics",
+                "ref": "https://azure.microsoft.com/en-us/services/synapse-analytics/",
                 "icon": "Azure Data Warehouse.png",
                 "Properties": [
                     "To be added",
@@ -2715,8 +2715,8 @@
                 ]
             },
             {
-                "name": "Autonomous Data Warehouse Cloud",
-                "ref": "https://cloud.oracle.com/en_US/datawarehouse/features",
+                "name": "Autonomous Data Warehouse",
+                "ref": "https://www.oracle.com/database/adw-cloud.html",
                 "icon": "database.png",
                 "Properties": [
                     "Yes",
@@ -7209,9 +7209,9 @@
         ],
         "oracle": [
             {
-                "name": "Identity Cloud Service",
-                "ref": "",
-                "icon": "none.png",
+                "name": "OCI Key Management",
+                "ref": "https://www.oracle.com/cloud/security/cloud-services/key-management.html",
+                "icon": "",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11067,18 +11067,6 @@
                     "To be added",
                     "To be added"
                 ]
-            },
-            {
-                "name": "Amazon Quantum Ledger Database (QLDB)",
-                "ref": "https://aws.amazon.com/qldb/",
-                "icon": "aws.png",
-                "Properties": [
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
             }
         ],
         "azure": [
@@ -11168,6 +11156,107 @@
                 "icon": "alibaba.png",
                 "Properties": [
                     "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Application Services",
+            "ref": ""
+        },
+        "service": {
+            "name": "Blockchain Ledger",
+            "ref": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "Amazon Quantum Ledger Database (QLDB)",
+                "ref": "https://aws.amazon.com/qldb/",
+                "icon": "aws.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure":[
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "Oracle DB Blockchain Tables (Announcement)",
+                "ref": "https://blogs.oracle.com/blockchain/blockchain-tables-in-oracle-database:-technology-convergence",
+                "icon": "oci.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "To be added",
                     "To be added",
                     "To be added",
                     "To be added",
@@ -12180,6 +12269,107 @@
                 "name": "Azure Dev/Test",
                 "ref": "https://azure.microsoft.com/en-in/services/devtest-lab/",
                 "icon": "Azure DevTest Labs.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Quantum Computing",
+            "ref": ""
+        },
+        "service": {
+            "name": "Platform",
+            "ref": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "Amazon Braket (Preview)",
+                "ref": "https://aws.amazon.com/braket/",
+                "icon": "aws.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Quantum (Preview)",
+                "ref": "https://azure.microsoft.com/de-de/services/quantum/",
+                "icon": "azure.png",
                 "Properties": [
                     "To be added",
                     "To be added",
