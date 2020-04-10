@@ -18,7 +18,7 @@
         },
         "aws": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -46,7 +46,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -74,7 +74,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -290,7 +290,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -876,7 +876,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -916,7 +916,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -1906,7 +1906,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -1920,7 +1920,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -2501,7 +2501,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -2602,7 +2602,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -2788,7 +2788,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -2901,7 +2901,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -2915,7 +2915,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -2929,7 +2929,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3002,7 +3002,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3056,7 +3056,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3101,7 +3101,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3115,7 +3115,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3303,7 +3303,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3317,7 +3317,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3331,7 +3331,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3345,7 +3345,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3359,7 +3359,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3418,7 +3418,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3432,7 +3432,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3446,7 +3446,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3460,7 +3460,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3475,7 +3475,7 @@
     },
     {
         "category": {
-            "name": "Networking & Content Delivery",
+            "name": "Networking",
             "ref": ""
         },
         "service": {
@@ -3588,7 +3588,7 @@
     },
     {
         "category": {
-            "name": "Networking & Content Delivery",
+            "name": "Networking",
             "ref": ""
         },
         "service": {
@@ -3701,7 +3701,7 @@
     },
     {
         "category": {
-            "name": "Networking & Content Delivery",
+            "name": "Networking",
             "ref": ""
         },
         "service": {
@@ -3773,7 +3773,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3806,7 +3806,7 @@
             "ref": ""
         },
         "service": {
-            "name": "Networking & Content Delivery",
+            "name": "Networking",
             "ref": "",
             "Properties": [
                 "To be added",
@@ -3947,7 +3947,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -3989,7 +3989,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4048,7 +4048,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4062,7 +4062,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4090,7 +4090,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4105,7 +4105,7 @@
     },
     {
         "category": {
-            "name": "Networking & Content Delivery",
+            "name": "Networking",
             "ref": ""
         },
         "service": {
@@ -4206,7 +4206,7 @@
     },
     {
         "category": {
-            "name": "Networking & Content Delivery",
+            "name": "Networking",
             "ref": ""
         },
         "service": {
@@ -4250,7 +4250,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4264,7 +4264,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4278,7 +4278,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4292,7 +4292,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4307,7 +4307,7 @@
     },
     {
         "category": {
-            "name": "Networking & Content Delivery",
+            "name": "Networking",
             "ref": ""
         },
         "service": {
@@ -4420,7 +4420,7 @@
     },
     {
         "category": {
-            "name": "Networking & Content Delivery",
+            "name": "Networking",
             "ref": ""
         },
         "service": {
@@ -4763,7 +4763,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -4948,7 +4948,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5007,7 +5007,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5021,7 +5021,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5049,7 +5049,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5540,7 +5540,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5651,7 +5651,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5665,7 +5665,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5738,7 +5738,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5752,7 +5752,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5766,7 +5766,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5780,7 +5780,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5794,7 +5794,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5879,7 +5879,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5893,7 +5893,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5907,7 +5907,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5978,7 +5978,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -5992,7 +5992,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6177,7 +6177,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6286,7 +6286,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6300,7 +6300,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6314,7 +6314,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6342,7 +6342,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6413,7 +6413,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6427,7 +6427,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6651,7 +6651,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6693,7 +6693,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -6752,7 +6752,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7078,7 +7078,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7276,7 +7276,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7318,7 +7318,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7405,7 +7405,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7478,7 +7478,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7579,7 +7579,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7593,7 +7593,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7607,7 +7607,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7621,7 +7621,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7694,7 +7694,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7809,7 +7809,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -7995,7 +7995,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -8023,7 +8023,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -8037,7 +8037,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -8162,7 +8162,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -8679,7 +8679,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -8693,7 +8693,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -8816,7 +8816,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -8830,7 +8830,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -8953,7 +8953,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9114,7 +9114,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9229,7 +9229,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9431,7 +9431,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9490,7 +9490,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9518,7 +9518,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9532,7 +9532,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9577,7 +9577,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9591,7 +9591,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9605,7 +9605,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9619,7 +9619,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9633,7 +9633,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9718,7 +9718,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9732,7 +9732,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9746,7 +9746,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9819,7 +9819,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9833,7 +9833,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9847,7 +9847,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -9996,7 +9996,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10097,7 +10097,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10232,7 +10232,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10425,7 +10425,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10453,7 +10453,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10675,7 +10675,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10703,7 +10703,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10717,7 +10717,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10762,7 +10762,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10776,7 +10776,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -10905,7 +10905,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11002,7 +11002,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11089,7 +11089,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11103,7 +11103,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11117,7 +11117,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11145,7 +11145,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11343,7 +11343,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11357,7 +11357,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11371,7 +11371,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11416,7 +11416,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11430,7 +11430,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11444,7 +11444,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11458,7 +11458,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11472,7 +11472,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11769,7 +11769,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11797,7 +11797,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11811,7 +11811,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11870,7 +11870,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11884,7 +11884,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11898,7 +11898,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11912,7 +11912,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -11983,7 +11983,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12011,7 +12011,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12025,7 +12025,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12070,7 +12070,7 @@
         ],
         "azure": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12084,7 +12084,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12098,7 +12098,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12112,7 +12112,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12126,7 +12126,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12185,7 +12185,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12199,7 +12199,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12213,7 +12213,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12227,7 +12227,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12286,7 +12286,7 @@
         ],
         "google": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12300,7 +12300,7 @@
         ],
         "ibm": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12314,7 +12314,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
@@ -12328,7 +12328,7 @@
         ],
         "alibaba": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "none.png",
                 "Properties": [
