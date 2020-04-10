@@ -215,8 +215,8 @@
         "oracle": [
             {
                 "name": "Compute",
-                "ref": "https://cloud.oracle.com/en_US/compute",
-                "icon": "compute.png",
+                "ref": "https://www.oracle.com/cloud/compute/virtual-machines.html",
+                "icon": "OCI_VM_red_256x256.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -320,8 +320,8 @@
         "oracle": [
             {
                 "name": "Bare Metal Servers",
-                "ref": "https://cloud.oracle.com/compute/bare-metal/features",
-                "icon": "compute.png",
+                "ref": "https://www.oracle.com/cloud/compute/bare-metal.html",
+                "icon": "OCI_BM_red_256x256.png",
                 "Properties": [
                     "39",
                     "Yes",
