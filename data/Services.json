@@ -7,6 +7,7 @@
         "service": {
             "name": "Shared Web hosting",
             "ref": "",
+            "description": "",
             "Properties": [
                 "Number of instance templates available",
                 "GPU acceleration",
@@ -451,6 +452,108 @@
                     "1 � 40",
                     "0,5 � 244 GB",
                     "Up to 48 TB (Multiple Disks)"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Compute",
+            "ref": ""
+        },
+        "service": {
+            "name": "VMWare Hosts",
+            "ref": "",
+            "Properties": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "T"
+            ]
+        },
+        "aws": [
+            {
+                "name": "VMWare Cloud on AWS",
+                "ref": "https://aws.amazon.com/vmware",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure VMware by CloudSimple",
+                "ref": "https://azure.microsoft.com/services/azure-vmware-cloudsimple",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "VMWare Cloud on OCI",
+                "ref": "",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
                 ]
             }
         ]
@@ -2093,7 +2196,7 @@
         ],
         "ibm": [
             {
-                "name": "Db2",
+                "name": "DB2",
                 "ref": "https://cloud.ibm.com/catalog/services/db2",
                 "icon": "ibmcloud.png",
                 "Properties": [
@@ -2105,7 +2208,7 @@
                 ]
             },
             {
-                "name": "Db2 Hosted",
+                "name": "DB2 Hosted",
                 "ref": "https://cloud.ibm.com/catalog/services/db2-hosted",
                 "icon": "ibmcloud.png",
                 "Properties": [
@@ -2155,8 +2258,20 @@
         ],
         "oracle": [
             {
-                "name": "DBaaS",
+                "name": "Oracle Database Cloud Service",
                 "ref": "https://cloud.oracle.com/database",
+                "icon": "database.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Exadata Cloud Service",
+                "ref": "",
                 "icon": "database.png",
                 "Properties": [
                     "Yes",
@@ -3705,7 +3820,7 @@
             "ref": ""
         },
         "service": {
-            "name": "Content Delivery Network",
+            "name": "Content Delivery Network (CDN)",
             "ref": "",
             "Properties": [
                 "To be added",
@@ -3806,7 +3921,7 @@
             "ref": ""
         },
         "service": {
-            "name": "Networking",
+            "name": "DNS Management",
             "ref": "",
             "Properties": [
                 "To be added",
@@ -4109,8 +4224,8 @@
             "ref": ""
         },
         "service": {
-            "name": "Private Connectivity",
-            "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
+            "name": "Direct DC Connectivity",
+            "ref": "",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -4135,7 +4250,7 @@
         ],
         "azure": [
             {
-                "name": "Azure Express Route",
+                "name": "Azure ExpressRoute",
                 "ref": "https://azure.microsoft.com/en-in/services/expressroute/",
                 "icon": "Azure ExpressRoute.png",
                 "Properties": [
@@ -4177,7 +4292,7 @@
         ],
         "oracle": [
             {
-                "name": "Fast Connect",
+                "name": "FastConnect",
                 "ref": "https://cloud.oracle.com/fastconnect",
                 "icon": "service-fastconnect.png",
                 "Properties": [
