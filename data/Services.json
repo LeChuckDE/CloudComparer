@@ -2053,17 +2053,17 @@
                 ]
             },
             {
-              "name": "Azure SQL Database Edge",
-              "ref": "https://azure.microsoft.com/en-in/services/sql-database-edge/",
-              "icon": "Azure SQL Database.png",
-              "Properties": [
-                  "To be added",
-                  "To be added",
-                  "To be added",
-                  "To be added",
-                  "To be added"
-              ]
-          }
+                "name": "Azure SQL Database Edge",
+                "ref": "https://azure.microsoft.com/en-in/services/sql-database-edge/",
+                "icon": "Azure SQL Database.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
         ],
         "google": [
             {
@@ -4003,106 +4003,106 @@
         ]
     },
     {
-      "category": {
-          "name": "Hybrid Cloud",
-          "ref": ""
-      },
-      "service": {
-          "name": "Hybrid Cloud",
-          "ref": "",
-          "Properties": [
-              "To be added",
-              "To be added",
-              "To be added",
-              "To be added",
-              "To be added"
-          ]
-      },
-      "aws": [
-        {
-          "name": "AWS Outposts",
-          "ref": "https://aws.amazon.com/outposts/",
-          "icon": "aws.png",
-          "Properties": [
-              "Yes",
-              "To be added",
-              "To be added",
-              "To be added",
-              "To be added"
-          ]
-      }
-      ],
-      "azure": [
-        {
-          "name": "Azure Arc",
-          "ref": "https://azure.microsoft.com/en-in/services/azure-arc/",
-          "icon": "azure.png",
-          "Properties": [
-              "Yes",
-              "To be added",
-              "To be added",
-              "To be added",
-              "To be added"
-          ]
-      }
-      ],
-      "google": [
-        {
-          "name": "",
-          "ref": "",
-          "icon": "none.png",
-          "Properties": [
-              "Yes",
-              "To be added",
-              "To be added",
-              "To be added",
-              "To be added"
-          ]
-      }
-      ],
-      "ibm": [
-        {
-          "name": "",
-          "ref": "",
-          "icon": "none.png",
-          "Properties": [
-              "Yes",
-              "To be added",
-              "To be added",
-              "To be added",
-              "To be added"
-          ]
-      }
-      ],
-      "oracle": [
-        {
-          "name": "Exadata Cloud At Customer",
-          "ref": "https://www.oracle.com/cloud/cloud-at-customer.html",
-          "icon": "exadata.png",
-          "Properties": [
-              "Yes",
-              "To be added",
-              "To be added",
-              "To be added",
-              "To be added"
-          ]
-      }
-      ],
-      "alibaba": [
-          {
-              "name": "",
-              "ref": "",
-              "icon": "none.png",
-              "Properties": [
-                  "Yes",
-                  "To be added",
-                  "To be added",
-                  "To be added",
-                  "To be added"
-              ]
-          }
-      ]
-  },
+        "category": {
+            "name": "Hybrid Cloud",
+            "ref": ""
+        },
+        "service": {
+            "name": "Hybrid Cloud",
+            "ref": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "AWS Outposts",
+                "ref": "https://aws.amazon.com/outposts/",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Arc",
+                "ref": "https://azure.microsoft.com/en-in/services/azure-arc/",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "Exadata Cloud At Customer",
+                "ref": "https://www.oracle.com/cloud/cloud-at-customer.html",
+                "icon": "exadata.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
     {
         "category": {
             "name": "Networking & Content Delivery",
@@ -4204,7 +4204,6 @@
             }
         ]
     },
-
     {
         "category": {
             "name": "Networking & Content Delivery",
@@ -4222,7 +4221,6 @@
             ]
         },
         "aws": [
-
             {
                 "name": "AWS Private Link",
                 "ref": "https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-privatelink-in-the-eu-paris-region/",
@@ -4307,7 +4305,6 @@
             }
         ]
     },
-
     {
         "category": {
             "name": "Networking & Content Delivery",
@@ -4421,8 +4418,6 @@
             }
         ]
     },
-
-
     {
         "category": {
             "name": "Networking & Content Delivery",
@@ -4536,7 +4531,6 @@
             }
         ]
     },
-
     {
         "category": {
             "name": "Developer Tools",
@@ -11093,7 +11087,7 @@
                 ]
             }
         ],
-        "azure":[
+        "azure": [
             {
                 "name": "",
                 "ref": "",
@@ -11985,7 +11979,7 @@
                     "To be added",
                     "To be added"
                 ]
-            },
+            }
         ],
         "google": [
             {
