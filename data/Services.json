@@ -214,7 +214,7 @@
         ],
         "oracle": [
             {
-                "name": "Compute",
+                "name": "Compute Virtual Machines",
                 "ref": "https://www.oracle.com/cloud/compute/virtual-machines.html",
                 "icon": "OCI_VM_red_256x256.png",
                 "Properties": [
@@ -2703,9 +2703,9 @@
         ],
         "oracle": [
             {
-                "name": "Exadata",
-                "ref": "http://www.oracle.com/us/corporate/features/exadata-service/index.html",
-                "icon": "database.png",
+                "name": "Exadata Cloud Service",
+                "ref": "https://www.oracle.com/database/exadata-cloud-service.html",
+                "icon": "exadata.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -4076,9 +4076,9 @@
       ],
       "oracle": [
         {
-          "name": "Cloud At Customer",
+          "name": "Exadata Cloud At Customer",
           "ref": "https://www.oracle.com/cloud/cloud-at-customer.html",
-          "icon": "oracle.png",
+          "icon": "exadata.png",
           "Properties": [
               "Yes",
               "To be added",
