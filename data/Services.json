@@ -1934,9 +1934,9 @@
         ],
         "oracle": [
             {
-                "name": "Storage Software Appliance",
-                "ref": "https://cloud.oracle.com/en_US/storage-classic/storage-appliance/features/",
-                "icon": "storage.png",
+                "name": "Storage Gateway",
+                "ref": "https://www.oracle.com/cloud/storage/storage-gateway.html",
+                "icon": "OCI_StorageGateway_092118_gray_256x256.png",
                 "Properties": [
                     "Yes",
                     "To be added",
