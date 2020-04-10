@@ -3561,7 +3561,7 @@
             {
                 "name": "Oracle Virtual Cloud Network",
                 "ref": "https://cloud.oracle.com/networking",
-                "icon": "service-virtual-cloud-network.png",
+                "icon": "OCI_VCloudNetwork_red_256x256.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -3876,7 +3876,7 @@
             {
                 "name": "Oracle DNS",
                 "ref": "https://cloud.oracle.com/edge/dns/features",
-                "icon": "EdgeServices.png",
+                "icon": "OCI_DNS_red_256x256.png",
                 "Properties": [
                     "Yes",
                     "To be added",
