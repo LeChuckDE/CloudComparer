@@ -1405,7 +1405,7 @@
         "aws": [
             {
                 "name": "AWS Lambda",
-                "ref": "",
+                "ref": "https://aws.amazon.com/lambda/",
                 "icon": "Compute_AWSLambda.png",
                 "Properties": [
                     "To be added",
@@ -1473,7 +1473,7 @@
         "oracle": [
             {
                 "name": "Oracle Functions",
-                "ref": "",
+                "ref": "https://www.oracle.com/cloud/cloud-native/functions/",
                 "icon": "compute.png",
                 "Properties": [
                     "Yes",
@@ -11608,6 +11608,7 @@
         "service": {
             "name": "Cloud Marketplace",
             "ref": "",
+            "description": "Easy-to-deploy and automatically configured third-party applications, including single virtual machine or multiple virtual machine solutions.",
             "Properties": [
                 "To be added",
                 "To be added",
