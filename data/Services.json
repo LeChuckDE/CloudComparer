@@ -735,7 +735,7 @@
         "oracle": [
             {
                 "name": "VMWare Cloud on OCI",
-                "ref": "",
+                "ref": "https://www.oracle.com/cloud/vmware/",
                 "icon": "oracle.png",
                 "Properties": [
                     "Yes",
@@ -2856,6 +2856,7 @@
         "service": {
             "name": "In-Memory Data Store",
             "ref": "https://en.wikipedia.org/wiki/In-memory_database",
+            "description": "An in-memory–based, distributed caching service that provides a high-performance store typically used to offload nontransactional work from a database.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -2866,7 +2867,7 @@
         },
         "aws": [
             {
-                "name": "Amazon ElastiCache",
+                "name": "Amazon ElastiCache (Redis, memcached)",
                 "ref": "https://aws.amazon.com/elasticache/",
                 "icon": "Database_AmazonElasticCache.png",
                 "Properties": [
@@ -2880,8 +2881,8 @@
         ],
         "azure": [
             {
-                "name": "Azure RedisCache",
-                "ref": "https://azure.microsoft.com/en-in/services/cache/",
+                "name": "Azure Cache for Redis",
+                "ref": "https://azure.microsoft.com/services/cache",
                 "icon": "Azure Cache including Redis.png",
                 "Properties": [
                     "To be added",
@@ -2952,7 +2953,7 @@
     {
         "category": {
             "name": "Database",
-            "ref": "https://en.wikipedia.org/wiki/Data_warehouse"
+            "ref": ""
         },
         "service": {
             "name": "Data Warehousing",
@@ -11909,12 +11910,13 @@
     },
     {
         "category": {
-            "name": "Internet of Things",
+            "name": "Internet of Things (IoT)",
             "ref": ""
         },
         "service": {
             "name": "IoT Platform",
             "ref": "",
+            "description": "A cloud gateway for managing bidirectional communication with billions of IoT devices, securely and at scale.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -11926,7 +11928,7 @@
         "aws": [
             {
                 "name": "AWS IoT Platform",
-                "ref": "",
+                "ref": "https://aws.amazon.com/iot",
                 "icon": "Internet-Of-Things_AWSIoT.png",
                 "Properties": [
                     "To be added",
@@ -11939,20 +11941,8 @@
         ],
         "azure": [
             {
-                "name": "Azure IoT Platform",
-                "ref": "https://azure.microsoft.com/en-us/overview/iot/",
-                "icon": "Azure IoT Hub.png",
-                "Properties": [
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            },
-            {
                 "name": "Azure IoT Hub",
-                "ref": "https://azure.microsoft.com/en-us/services/iot-hub/",
+                "ref": "https://azure.microsoft.com/services/iot-hub",
                 "icon": "Azure IoT Hub.png",
                 "Properties": [
                     "To be added",
@@ -12038,8 +12028,9 @@
             "ref": ""
         },
         "service": {
-            "name": "IoT Development Solutions",
+            "name": "IoT Deployments",
             "ref": "",
+            "description": "Deploy cloud intelligence directly on IoT devices to run in on-premises scenarios.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -12051,7 +12042,7 @@
         "aws": [
             {
                 "name": "AWS Greengrass",
-                "ref": "",
+                "ref": "https://aws.amazon.com/greengrass",
                 "icon": "aws.png",
                 "Properties": [
                     "To be added",
@@ -12064,20 +12055,8 @@
         ],
         "azure": [
             {
-                "name": "Azure IoT SDK",
-                "ref": "",
-                "icon": "Azure SDK.png",
-                "Properties": [
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            },
-            {
                 "name": "Azure IoT Edge",
-                "ref": "https://azure.microsoft.com/en-us/blog/microsoft-launches-azure-iot-technical-training-developers-can-start-quickly-with-iot/",
+                "ref": "https://azure.microsoft.com/services/iot-edge",
                 "icon": "Azure SDK.png",
                 "Properties": [
                     "To be added",
