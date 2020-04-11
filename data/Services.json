@@ -1,6 +1,209 @@
 [
     {
         "category": {
+            "name": "TEMPLATE",
+            "ref": ""
+        },
+        "service": {
+            "name": "TEMPLATE",
+            "ref": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Compute",
+            "ref": ""
+        },
+        "service": {
+            "name": "OS Management",
+            "ref": "",
+            "description": "Tools to automate common operating system management tasks such as patch and package management, and security and compliance reporting for compute instances deployed.",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "OS Management",
+                "ref": "https://blogs.oracle.com/cloud-infrastructure/os-management-with-oracle-cloud-infrastructure",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
             "name": "Compute",
             "ref": ""
         },
@@ -120,8 +323,9 @@
             "ref": ""
         },
         "service": {
-            "name": "Virtual Server",
+            "name": "Virtual Server (VM)",
             "ref": "",
+            "description": "Virtual servers allow users to deploy, manage, and maintain OS and server software. Instance types provide combinations of CPU/RAM. Users pay for what they use with the flexibility to change sizes.",
             "Properties": [
                 "Number of instance templates available",
                 "GPU acceleration",
@@ -427,16 +631,15 @@
         ],
         "oracle": [
             {
-                "name": "Dedicated Compute Classic",
-                "ref": "https://cloud.oracle.com/compute-classic/dedicated/features",
-                "icon": "compute.png",
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
                 "Properties": [
-                    "39",
                     "Yes",
-                    "No",
-                    "1 � 40",
-                    "0,5 � 244 GB",
-                    "Up to 48 TB (Multiple Disks)"
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
                 ]
             }
         ],
@@ -1054,6 +1257,7 @@
         "service": {
             "name": "Auto Scaling",
             "ref": "",
+            "description": "Allows you to automatically change the number of VM instances. You set defined metric and thresholds that determine if the platform adds or removes instances.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -1064,7 +1268,7 @@
         },
         "aws": [
             {
-                "name": "Auto Scaling",
+                "name": "AWS Auto Scaling",
                 "ref": "https://aws.amazon.com/autoscaling/",
                 "icon": "aws.png",
                 "Properties": [
@@ -1134,7 +1338,7 @@
         "oracle": [
             {
                 "name": "Auto Scaling",
-                "ref": "https://docs.oracle.com/en/cloud/paas/psmon/automatic-scaling.html",
+                "ref": "https://docs.cloud.oracle.com/en-us/iaas/Content/Compute/Tasks/autoscalinginstancepools.htm",
                 "icon": "oracle.png",
                 "Properties": [
                     "Yes",
@@ -1168,6 +1372,7 @@
         "service": {
             "name": "Batch Jobs",
             "ref": "https://en.wikipedia.org/wiki/Batch_processing",
+            "description": "Run large-scale parallel and high-performance computing applications efficiently in the cloud.",
             "Properties": [
                 "To be added",
                 "To be added",
