@@ -172,7 +172,7 @@
     "service": "Data Warehousing",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/redshift/\" target=\"_blank\">Amazon Redshift</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/synapse-analytics/\" target=\"_blank\">Azure Synapse Analytics</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://www.oracle.com/database/exadata-cloud-service.html\" target=\"_blank\">Exadata Cloud Service</a></li><li><a href=\"https://www.oracle.com/database/adw-cloud.html\" target=\"_blank\">Autonomous Data Warehouse</a></li></ul>"
+    "oci": "<ul><li><a href=\"https://www.oracle.com/database/exadata-cloud-service.html\" target=\"_blank\">Exadata Cloud Service</a></li><li><a href=\"https://www.oracle.com/database/vm-cloud.html\" target=\"_blank\">Database VM Cloud Service</a></li><li><a href=\"https://www.oracle.com/database/bare-metal-cloud.html\" target=\"_blank\">Database Bare Metal Cloud Service</a></li><li><a href=\"https://www.oracle.com/database/adw-cloud.html\" target=\"_blank\">Autonomous Data Warehouse</a></li></ul>"
   },
   {
     "category": "Migration Services",

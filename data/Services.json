@@ -3036,6 +3036,30 @@
                 ]
             },
             {
+                "name": "Database VM Cloud Service",
+                "ref": "https://www.oracle.com/database/vm-cloud.html",
+                "icon": "database.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Database Bare Metal Cloud Service",
+                "ref": "https://www.oracle.com/database/bare-metal-cloud.html",
+                "icon": "database.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
                 "name": "Autonomous Data Warehouse",
                 "ref": "https://www.oracle.com/database/adw-cloud.html",
                 "icon": "database.png",
