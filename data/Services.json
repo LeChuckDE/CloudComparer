@@ -837,7 +837,7 @@
         ],
         "oracle": [
             {
-                "name": "",
+                "name": "n/a",
                 "ref": "",
                 "icon": "oracle.png",
                 "Properties": [
@@ -2947,8 +2947,8 @@
             "ref": ""
         },
         "service": {
-            "name": "In-Memory Data Store",
-            "ref": "https://en.wikipedia.org/wiki/In-memory_database",
+            "name": "In-Memory Data Cache",
+            "ref": "",
             "description": "An in-memory–based, distributed caching service that provides a high-performance store typically used to offload nontransactional work from a database.",
             "Properties": [
                 "To be added",
@@ -4547,7 +4547,7 @@
             "ref": ""
         },
         "service": {
-            "name": "Direct DC Connectivity",
+            "name": "Dedicated Connections",
             "ref": "",
             "Properties": [
                 "To be added",
@@ -4648,6 +4648,108 @@
             "ref": ""
         },
         "service": {
+            "name": "Dedicated Connections - High Bandwidth (>50Gbps)",
+            "ref": "",
+            "description": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "ExpressRoute Direct (Preview)",
+                "ref": "https://azure.microsoft.com/en-us/updates/expressroute-direct-in-public-preview/",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Networking",
+            "ref": ""
+        },
+        "service": {
             "name": "Private Link",
             "ref": "",
             "Properties": [
@@ -4675,7 +4777,7 @@
         "azure": [
             {
                 "name": "Azure Private Link",
-                "ref": "",
+                "ref": "https://azure.microsoft.com/en-us/services/private-link/",
                 "icon": "azure.png",
                 "Properties": [
                     "To be added",
@@ -11027,6 +11129,7 @@
         "service": {
             "name": "Queuing Services",
             "ref": "",
+            "description": "Provides a managed message queueing service for communicating between decoupled application components.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -11444,9 +11547,9 @@
         ],
         "oracle": [
             {
-                "name": "n/a",
-                "ref": "",
-                "icon": "none.png",
+                "name": "Oracle Notifications",
+                "ref": "https://www.oracle.com/cloud/systems-management/notifications/",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",

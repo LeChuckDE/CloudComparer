@@ -53,7 +53,7 @@
     "service": "Container Runtime",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon EC2 Container Service</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/container-instances/\" target=\"_blank\">Azure Container Instances</a></li></ul>",
-    "oci": "<ul><li></li></ul>"
+    "oci": "<ul><li>n/a</li></ul>"
   },
   {
     "category": "Container",
@@ -169,7 +169,7 @@
   },
   {
     "category": "Database",
-    "service": "In-Memory Data Store",
+    "service": "In-Memory Data Cache",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/elasticache/\" target=\"_blank\">Amazon ElastiCache (Redis, memcached)</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/cache\" target=\"_blank\">Azure Cache for Redis</a></li></ul>",
     "oci": "<ul><li>n/a</li></ul>"
@@ -274,16 +274,23 @@
   },
   {
     "category": "Networking",
-    "service": "Direct DC Connectivity",
+    "service": "Dedicated Connections",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/directconnect/\" target=\"_blank\">AWS Direct Connect</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/expressroute/\" target=\"_blank\">Azure ExpressRoute</a></li></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/fastconnect\" target=\"_blank\">FastConnect</a></li></ul>"
   },
   {
     "category": "Networking",
+    "service": "Dedicated Connections - High Bandwidth (>50Gbps)",
+    "aws": "<ul><li></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/updates/expressroute-direct-in-public-preview/\" target=\"_blank\">ExpressRoute Direct (Preview)</a></li></ul>",
+    "oci": "<ul><li>n/a</li></ul>"
+  },
+  {
+    "category": "Networking",
     "service": "Private Link",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/about-aws/whats-new/2018/04/introducing-aws-privatelink-in-the-eu-paris-region/\" target=\"_blank\">AWS Private Link</a></li></ul>",
-    "azure": "<ul><li>Azure Private Link</li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/private-link/\" target=\"_blank\">Azure Private Link</a></li></ul>",
     "oci": "<ul><li>n/a</li></ul>"
   },
   {
@@ -648,7 +655,7 @@
     "service": "Notification Services",
     "aws": "<ul><li>Amazon SNS</li></ul>",
     "azure": "<ul><li>Azure Notification Services</li></ul>",
-    "oci": "<ul><li>n/a</li></ul>"
+    "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/systems-management/notifications/\" target=\"_blank\">Oracle Notifications</a></li></ul>"
   },
   {
     "category": "Application Services",
