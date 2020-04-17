@@ -1,12 +1,5 @@
 [
   {
-    "category": "TEMPLATE",
-    "service": "TEMPLATE",
-    "aws": "<ul><li></li></ul>",
-    "azure": "<ul><li></li></ul>",
-    "oci": "<ul><li></li></ul>"
-  },
-  {
     "category": "Compute",
     "service": "OS Management",
     "aws": "<ul><li></li></ul>",
@@ -49,22 +42,36 @@
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/vmware/\" target=\"_blank\">VMWare Cloud on OCI</a></li></ul>"
   },
   {
-    "category": "Compute",
+    "category": "Container",
     "service": "Container Registration Service",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/ecr/\" target=\"_blank\">Amazon EC2 Container Registry</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/container-registry/\" target=\"_blank\">Azure Container Registry </a></li></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/containers/registry\" target=\"_blank\">OCI Container Registry</a></li></ul>"
   },
   {
-    "category": "Compute",
+    "category": "Container",
+    "service": "Container Runtime",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon EC2 Container Service</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/container-instances/\" target=\"_blank\">Azure Container Instances</a></li></ul>",
+    "oci": "<ul><li></li></ul>"
+  },
+  {
+    "category": "Container",
     "service": "Container Management Service",
-    "aws": "<ul><li><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon EC2 Container Service</a></li><li><a href=\"https://aws.amazon.com/eks/\" target=\"_blank\">Amazon Elastic Container Service for Kubernetes (EKS)</a></li></ul>",
-    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/kubernetes-service/\" target=\"_blank\">Azure Kubernetes Service (AKS)</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/container-instances/\" target=\"_blank\">Azure Container Instances</a></li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/fargate/\" target=\"_blank\">AWS Fargate</a></li><li><a href=\"https://aws.amazon.com/eks/\" target=\"_blank\">Amazon Elastic Container Service for Kubernetes (EKS)</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/kubernetes-service/\" target=\"_blank\">Azure Kubernetes Service (AKS)</a></li></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/containers/kubernetes-engine\" target=\"_blank\">Container Engine for Kubernetes (OKE)</a></li></ul>"
   },
   {
+    "category": "Container",
+    "service": "Service Mesh",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/app-mesh\" target=\"_blank\">App Mesh</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://docs.microsoft.com/azure/service-fabric-mesh/service-fabric-mesh-overview\" target=\"_blank\">Service Fabric Mesh</a></li></ul>",
+    "oci": "<ul><li>n/a</li></ul>"
+  },
+  {
     "category": "Compute",
-    "service": "Micro Services App Development Platform",
+    "service": "Serverless Functions",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/lambda/\" target=\"_blank\">AWS Lambda</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/service-fabric/\" target=\"_blank\">Azure Service Fabric</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/functions/\" target=\"_blank\">Azure Functions</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/event-grid/\" target=\"_blank\">Event Grid</a></li></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/cloud-native/functions/\" target=\"_blank\">Oracle Functions</a></li></ul>"
@@ -473,7 +480,14 @@
     "service": "Big Data Managed Cluster as a Service",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/emr/\" target=\"_blank\">Amazon EMR</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/hdinsight/\" target=\"_blank\">Azure HDInsight</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/bigdata\" target=\"_blank\">Big Data</a></li></ul>"
+    "oci": "<ul><li><a href=\"https://cloud.oracle.com/bigdata\" target=\"_blank\">Big Data Service</a></li></ul>"
+  },
+  {
+    "category": "Big Data & Advanced Analytics",
+    "service": "Apache Spark-based analytics platform",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/emr/\" target=\"_blank\">Amazon EMR</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/databricks\" target=\"_blank\">Azure Databricks</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://www.oracle.com/big-data/data-flow/\" target=\"_blank\">OCI Data Flow</a></li></ul>"
   },
   {
     "category": "Big Data & Advanced Analytics",

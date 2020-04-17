@@ -1,105 +1,5 @@
 [
-    {
-        "category": {
-            "name": "TEMPLATE",
-            "ref": ""
-        },
-        "service": {
-            "name": "TEMPLATE",
-            "ref": "",
-            "Properties": [
-                "To be added",
-                "To be added",
-                "To be added",
-                "To be added",
-                "To be added"
-            ]
-        },
-        "aws": [
-            {
-                "name": "",
-                "ref": "",
-                "icon": "aws.png",
-                "Properties": [
-                    "Yes",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            }
-        ],
-        "azure": [
-            {
-                "name": "",
-                "ref": "",
-                "icon": "azure.png",
-                "Properties": [
-                    "Yes",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            }
-        ],
-        "google": [
-            {
-                "name": "n/a",
-                "ref": "",
-                "icon": "none.png",
-                "Properties": [
-                    "Yes",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            }
-        ],
-        "ibm": [
-            {
-                "name": "n/a",
-                "ref": "",
-                "icon": "none.png",
-                "Properties": [
-                    "Yes",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            }
-        ],
-        "oracle": [
-            {
-                "name": "",
-                "ref": "",
-                "icon": "oracle.png",
-                "Properties": [
-                    "Yes",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            }
-        ],
-        "alibaba": [
-            {
-                "name": "n/a",
-                "ref": "",
-                "icon": "none.png",
-                "Properties": [
-                    "Yes",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            }
-        ]
-    },
+
     {
         "category": {
             "name": "Compute",
@@ -763,7 +663,7 @@
     },
     {
         "category": {
-            "name": "Compute",
+            "name": "Container",
             "ref": ""
         },
         "service": {
@@ -864,12 +764,13 @@
     },
     {
         "category": {
-            "name": "Compute",
+            "name": "Container",
             "ref": ""
         },
         "service": {
-            "name": "Container Management Service",
+            "name": "Container Runtime",
             "ref": "",
+            "description": "",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -883,6 +784,108 @@
                 "name": "Amazon EC2 Container Service",
                 "ref": "https://aws.amazon.com/ecs/",
                 "icon": "Compute_AmazonECS.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Container Instances",
+                "ref": "https://azure.microsoft.com/en-in/services/container-instances/",
+                "icon": "Azure Container Service.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Container",
+            "ref": ""
+        },
+        "service": {
+            "name": "Container Management Service",
+            "ref": "",
+            "description": "Deploy orchestrated containerized applications with Kubernetes. Simplify monitoring and cluster management through auto upgrades and a built-in operations console.",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "AWS Fargate",
+                "ref": "https://aws.amazon.com/fargate/",
+                "icon": "aws.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -909,18 +912,6 @@
                 "name": "Azure Kubernetes Service (AKS)",
                 "ref": "https://azure.microsoft.com/services/kubernetes-service/",
                 "icon": "devops-containers-kubernetes.png",
-                "Properties": [
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            },
-            {
-                "name": "Azure Container Instances",
-                "ref": "https://azure.microsoft.com/en-in/services/container-instances/",
-                "icon": "Azure Container Service.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -1013,11 +1004,113 @@
     },
     {
         "category": {
+            "name": "Container",
+            "ref": ""
+        },
+        "service": {
+            "name": "Service Mesh",
+            "ref": "",
+            "description": "Fully managed service that enables developers to deploy microservices applications without managing virtual machines, storage, or networking.",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "App Mesh",
+                "ref": "https://aws.amazon.com/app-mesh",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Service Fabric Mesh",
+                "ref": "https://docs.microsoft.com/azure/service-fabric-mesh/service-fabric-mesh-overview",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
             "name": "Compute",
             "ref": ""
         },
         "service": {
-            "name": "Micro Services App Development Platform",
+            "name": "Serverless Functions",
             "ref": "",
             "Properties": [
                 "To be added",
@@ -8255,7 +8348,7 @@
         ],
         "oracle": [
             {
-                "name": "Big Data",
+                "name": "Big Data Service",
                 "ref": "https://cloud.oracle.com/bigdata",
                 "icon": "bigdata.png",
                 "Properties": [
@@ -8272,6 +8365,107 @@
                 "name": "E-MapReduce Service",
                 "ref": "https://www.alibabacloud.com/product/e-mapreduce",
                 "icon": "emr.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Big Data & Advanced Analytics",
+            "ref": ""
+        },
+        "service": {
+            "name": "Apache Spark-based analytics platform",
+            "ref": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "Amazon EMR",
+                "ref": "https://aws.amazon.com/emr/",
+                "icon": "Analytics_AmazonEMR.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Databricks",
+                "ref": "https://azure.microsoft.com/services/databricks",
+                "icon": "azure.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "OCI Data Flow",
+                "ref": "https://www.oracle.com/big-data/data-flow/",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "",
+                "ref": "",
+                "icon": "none.png",
                 "Properties": [
                     "Yes",
                     "To be added",
