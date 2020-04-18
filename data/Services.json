@@ -1565,7 +1565,7 @@
             "ref": ""
         },
         "service": {
-            "name": "App Development/ Deployment (Java /.Net /PHP /Python)",
+            "name": "App Development and Deployment",
             "ref": "https://en.wikipedia.org/wiki/Platform_as_a_service",
             "Properties": [
                 "To be added",
@@ -7264,6 +7264,18 @@
                     "To be added",
                     "To be added"
                 ]
+            },
+            {
+                "name": "Azure Role Based Access Control (RBAC)",
+                "ref": "https://docs.microsoft.com/azure/role-based-access-control/overview",
+                "icon": "azure.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
             }
         ],
         "google": [
@@ -7308,8 +7320,20 @@
         ],
         "oracle": [
             {
-                "name": "Identity",
-                "ref": "https://cloud.oracle.com/en_US/identity/features",
+                "name": "OCI Identity and Access Management",
+                "ref": "https://www.oracle.com/cloud/security/cloud-services/identity-access-cloud.html",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Oracle Identity Cloud Service",
+                "ref": "https://www.oracle.com/cloud/security/cloud-services/identity-cloud.html",
                 "icon": "oracle.png",
                 "Properties": [
                     "Yes",
@@ -7325,6 +7349,108 @@
                 "name": "Resource Access Management        ",
                 "ref": "https://www.alibabacloud.com/product/ram",
                 "icon": "ram.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Security & Identity, Compliance",
+            "ref": ""
+        },
+        "service": {
+            "name": "Multi Factor Authentication",
+            "ref": "",
+            "description": "Safeguard access to data and applications while meeting user demand for a simple sign-in process.",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "Multi-Factor Authentication",
+                "ref": "https://aws.amazon.com/iam/features/mfa",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Multi-Factor Authentication",
+                "ref": "https://azure.microsoft.com/services/multi-factor-authentication",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "Multi-Factor Authentication",
+                "ref": "https://blogs.oracle.com/cloud-infrastructure/multi-factor-authentication-for-oracle-cloud-infrastructure-users",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -7853,6 +7979,108 @@
             "ref": ""
         },
         "service": {
+            "name": "Large Scale Identity Management",
+            "ref": "",
+            "description": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "Cognito",
+                "ref": "https://aws.amazon.com/cognito",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Active Directory B2C",
+                "ref": "https://azure.microsoft.com/services/active-directory-b2c",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Security & Identity, Compliance",
+            "ref": ""
+        },
+        "service": {
             "name": "Key Management Services",
             "ref": "",
             "Properties": [
@@ -7980,6 +8208,7 @@
         "service": {
             "name": "Consolidated Management of Multiple Cloud Accounts",
             "ref": "",
+            "description": "",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -8007,6 +8236,20 @@
                 "name": "Azure Management Groups",
                 "ref": "https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview",
                 "icon": "Azure%20Management%20Portal.png",
+                "description": "Azure management groups provide a level of scope above subscriptions. You organize subscriptions into containers called management groups and apply your governance conditions to the management groups. All subscriptions within a management group automatically inherit the conditions applied to the management group. Management groups give you enterprise-grade management at a large scale, no matter what type of subscriptions you have.",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Azure Policy",
+                "ref": "https://azure.microsoft.com/services/azure-policy",
+                "icon": "Azure%20Management%20Portal.png",
+                "description": "Azure Policy is a service in Azure that you use to create, assign, and manage policies. These policies enforce different rules and effects over your resources, so those resources stay compliant with your corporate standards and service level agreements.",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -8046,9 +8289,9 @@
         ],
         "oracle": [
             {
-                "name": "Audit",
-                "ref": "https://cloud.oracle.com/en_US/cloud-security/audit/features",
-                "icon": "oracle.png",
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -11403,6 +11646,7 @@
         "service": {
             "name": "Media Transcoders",
             "ref": "",
+            "description": "Services that offer broadcast-quality video streaming services, including various transcoding technologies.",
             "Properties": [
                 "To be added",
                 "To be added",

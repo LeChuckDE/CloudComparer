@@ -99,7 +99,7 @@
   },
   {
     "category": "Compute",
-    "service": "App Development/ Deployment (Java /.Net /PHP /Python)",
+    "service": "App Development and Deployment",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/documentation/elastic-beanstalk/\" target=\"_blank\">AWS Elastic Beanstalk</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/app-service/web/\" target=\"_blank\">Azure Web Apps</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/cloud-services/\" target=\"_blank\">Azure Cloud Services</a></li></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/acc\" target=\"_blank\">Application Container Cloud</a></li><li><a href=\"https://cloud.oracle.com/en_US/java\" target=\"_blank\">Java Cloud Service</a></li></ul>"
@@ -409,8 +409,15 @@
     "category": "Security & Identity, Compliance",
     "service": "Identity & Access Management",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/documentation/iam/\" target=\"_blank\">AWS Identity and Access Management (IAM)</a></li></ul>",
-    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/active-directory/\" target=\"_blank\">Azure Active Directory</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/identity/features\" target=\"_blank\">Identity</a></li></ul>"
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/active-directory/\" target=\"_blank\">Azure Active Directory</a></li><li><a href=\"https://docs.microsoft.com/azure/role-based-access-control/overview\" target=\"_blank\">Azure Role Based Access Control (RBAC)</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/security/cloud-services/identity-access-cloud.html\" target=\"_blank\">OCI Identity and Access Management</a></li><li><a href=\"https://www.oracle.com/cloud/security/cloud-services/identity-cloud.html\" target=\"_blank\">Oracle Identity Cloud Service</a></li></ul>"
+  },
+  {
+    "category": "Security & Identity, Compliance",
+    "service": "Multi Factor Authentication",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/iam/features/mfa\" target=\"_blank\">Multi-Factor Authentication</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/multi-factor-authentication\" target=\"_blank\">Multi-Factor Authentication</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://blogs.oracle.com/cloud-infrastructure/multi-factor-authentication-for-oracle-cloud-infrastructure-users\" target=\"_blank\">Multi-Factor Authentication</a></li></ul>"
   },
   {
     "category": "Security & Identity, Compliance",
@@ -442,6 +449,13 @@
   },
   {
     "category": "Security & Identity, Compliance",
+    "service": "Large Scale Identity Management",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/cognito\" target=\"_blank\">Cognito</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/active-directory-b2c\" target=\"_blank\">Azure Active Directory B2C</a></li></ul>",
+    "oci": "<ul><li>n/a</li></ul>"
+  },
+  {
+    "category": "Security & Identity, Compliance",
     "service": "Key Management Services",
     "aws": "<ul><li>AWS Key Management Service</li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/key-vault/\" target=\"_blank\">Azure Key Vault</a></li></ul>",
@@ -451,8 +465,8 @@
     "category": "Security & Identity, Compliance",
     "service": "Consolidated Management of Multiple Cloud Accounts",
     "aws": "<ul><li>AWS Organizations</li></ul>",
-    "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview\" target=\"_blank\">Azure Management Groups</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/cloud-security/audit/features\" target=\"_blank\">Audit</a></li></ul>"
+    "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/azure-resource-manager/management-groups-overview\" target=\"_blank\">Azure Management Groups</a></li><li><a href=\"https://azure.microsoft.com/services/azure-policy\" target=\"_blank\">Azure Policy</a></li></ul>",
+    "oci": "<ul><li>n/a</li></ul>"
   },
   {
     "category": "Security & Identity, Compliance",
