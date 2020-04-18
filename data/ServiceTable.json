@@ -9,7 +9,7 @@
   {
     "category": "Compute",
     "service": "Shared Web hosting",
-    "aws": "<ul><li>n/a</li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/documentation/elastic-beanstalk/\" target=\"_blank\">AWS Elastic Beanstalk</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/app-service/web/\" target=\"_blank\">Azure shared App Services</a></li></ul>",
     "oci": "<ul><li>n/a</li></ul>"
   },
@@ -116,18 +116,18 @@
     "service": "Object Storage",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/documentation/s3/\" target=\"_blank\">Amazon Simple Storage Service (S3)</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/storage/blobs/\" target=\"_blank\">Azure Blob Storage</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/storage\" target=\"_blank\">Object Storage</a></li></ul>"
+    "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/storage/object-storage.html\" target=\"_blank\">OCI Object Storage</a></li></ul>"
   },
   {
     "category": "Storage",
-    "service": "Virtual Machine Disk Storage",
+    "service": "Block Storage",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/ebs/\" target=\"_blank\">Amazon Elastic Block Storage (EBS)</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/storage/disks/\" target=\"_blank\">Azure Page Blobs / Premium Storage</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/managed-disks/\" target=\"_blank\">Managed Disks</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/storage/object-storage/features\" target=\"_blank\">Block Storage</a></li></ul>"
+    "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/storage/block-volumes.html\" target=\"_blank\">OCI Block Volumes</a></li></ul>"
   },
   {
     "category": "Storage",
-    "service": "File Storage (SMB Compatible)",
+    "service": "File Storage",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/efs/pricing/\" target=\"_blank\">Amazon Elastic File System (EFS)</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/storage/files/\" target=\"_blank\">Azure File Storage</a></li></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/storage/file-storage/features\" target=\"_blank\">OCI File Storage</a></li></ul>"
@@ -135,9 +135,16 @@
   {
     "category": "Storage",
     "service": "Long Term Cold Storage",
-    "aws": "<ul><li><a href=\"https://aws.amazon.com/glacier/\" target=\"_blank\">Amazon Glacier</a></li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/glacier/\" target=\"_blank\">Amazon Glacier</a></li><li><a href=\"https://aws.amazon.com/s3/storage-classes\" target=\"_blank\">S3 Infrequent Access (IA)</a></li><li>S3 Intelligent Tiering</li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/storage/archive/\" target=\"_blank\">Azure Archive Storage</a></li><li><a href=\"https://azure.microsoft.com/en-in/pricing/details/storage/blobs/\" target=\"_blank\">Azure Cool Storage</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/storage-classic/archive-storage/features\" target=\"_blank\">Archive Storage</a></li></ul>"
+    "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/storage/archive-storage.html\" target=\"_blank\">OCI Archive Storage</a></li></ul>"
+  },
+  {
+    "category": "Storage",
+    "service": "Backup",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/backup\" target=\"_blank\">AWS Backup</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/backup\" target=\"_blank\">Azure Backup</a></li></ul>",
+    "oci": "<ul><li>n/a</li></ul>"
   },
   {
     "category": "Storage",
@@ -156,16 +163,16 @@
   {
     "category": "Database",
     "service": "Non Relational Database Management Service",
-    "aws": "<ul><li><a href=\"https://aws.amazon.com/dynamodb/\" target=\"_blank\">Amazon DynamoDB</a></li><li><a href=\"https://aws.amazon.com/dynamodb/dax/\" target=\"_blank\">Amazon DynamoDB Accelerator (DAX)</a></li><li><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a></li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/dynamodb/\" target=\"_blank\">Amazon DynamoDB</a></li><li><a href=\"https://aws.amazon.com/simpledb\" target=\"_blank\">Amazon SimpleDB</a></li><li><a href=\"https://aws.amazon.com/documentdb\" target=\"_blank\">Amazon DocumentDB</a></li><li><a href=\"https://aws.amazon.com/dynamodb/dax/\" target=\"_blank\">Amazon DynamoDB Accelerator (DAX)</a></li><li><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a></li></ul>",
     "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/cosmos-db/\" target=\"_blank\">Azure CosmosDB</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/storage/tables/\" target=\"_blank\">Table Storage</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/time-series-insights/\" target=\"_blank\">Azure Time Series Insights</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://www.oracle.com/database/nosql/index.html\" target=\"_blank\">NoSQL Database</a></li></ul>"
+    "oci": "<ul><li><a href=\"https://www.oracle.com/database/nosql-cloud.html\" target=\"_blank\">NoSQL Database Cloud Service</a></li></ul>"
   },
   {
     "category": "Database",
     "service": "Timeseries Database",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/dynamodb/\" target=\"_blank\">Amazon DynamoDB</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/time-series-insights/\" target=\"_blank\">Azure Time Series Insights</a></li></ul>",
-    "oci": "<ul><li>n/a</li></ul>"
+    "oci": "<ul><li>Oracle Database</li></ul>"
   },
   {
     "category": "Database",
@@ -239,7 +246,7 @@
   },
   {
     "category": "Networking",
-    "service": "Network Gateway",
+    "service": "VPN Gateway",
     "aws": "<ul><li><a href=\"http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpn-connections.html/\" target=\"_blank\">Amazon VPN</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/pricing/details/vpn-gateway/\" target=\"_blank\">Azure VPN Gateway</a></li></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/networking/vpn-connect.html\" target=\"_blank\">VPN Connect</a></li></ul>"
@@ -452,13 +459,13 @@
     "service": "DDos Protection Service",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/shield/\" target=\"_blank\">AWS Shield</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/ddos-protection/\" target=\"_blank\">Azure DDoS Protection</a></li></ul>",
-    "oci": "<ul><li>n/a</li></ul>"
+    "oci": "<ul><li><a href=\"https://docs.cloud.oracle.com/en-us/iaas/Content/EdgeServices/overview.htm\" target=\"_blank\">DDos Protection</a></li></ul>"
   },
   {
     "category": "Security & Identity, Compliance",
     "service": "Web Application Firewall",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/waf/\" target=\"_blank\">AWS WAF</a></li></ul>",
-    "azure": "<ul><li>Azure WAF</li></ul>",
+    "azure": "<ul><li><a href=\"https://docs.microsoft.com/azure/application-gateway/application-gateway-web-application-firewall-overview\" target=\"_blank\">Azure Application Gateway - Web Application Firewall</a></li><li><a href=\"https://azure.microsoft.com/services/azure-firewall\" target=\"_blank\">Azure Firewall</a></li></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/security/cloud-services/web-application-firewall.html\" target=\"_blank\">Web Application Firewall</a></li></ul>"
   },
   {
@@ -562,8 +569,8 @@
   {
     "category": "Mobile Services",
     "service": "Web API Management Service",
-    "aws": "<ul><li>Amazon API Gateway</li></ul>",
-    "azure": "<ul><li>Azure API Management</li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/api-gateway\" target=\"_blank\">Amazon API Gateway</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/api-management\" target=\"_blank\">Azure API Management</a></li></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/api-platform\" target=\"_blank\">API Platform</a></li></ul>"
   },
   {
@@ -617,10 +624,17 @@
   },
   {
     "category": "Application Services",
-    "service": "API Management Service",
-    "aws": "<ul><li>Amazon API Gateway</li></ul>",
-    "azure": "<ul><li>Azure API Management</li></ul>",
+    "service": "Traffic Accelerator",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/global-accelerator\" target=\"_blank\">AWS Global Accelerator</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/frontdoor\" target=\"_blank\">Azure Front Door</a></li></ul>",
     "oci": "<ul><li>n/a</li></ul>"
+  },
+  {
+    "category": "Application Services",
+    "service": "API Management Service",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/api-gateway\" target=\"_blank\">Amazon API Gateway</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/api-management\" target=\"_blank\">Azure API Management</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/integration/api-platform-cloud/\" target=\"_blank\">API Platform</a></li><li><a href=\"https://www.oracle.com/cloud/cloud-native/api-gateway/\" target=\"_blank\">API Gateway</a></li></ul>"
   },
   {
     "category": "Application Services",

@@ -122,11 +122,11 @@
         },
         "aws": [
             {
-                "name": "n/a",
-                "ref": "",
-                "icon": "none.png",
+                "name": "AWS Elastic Beanstalk",
+                "ref": "https://aws.amazon.com/documentation/elastic-beanstalk/",
+                "icon": "Compute_AWSElasticBeanstalk_application.png",
                 "Properties": [
-                    "Yes",
+                    "To be added",
                     "To be added",
                     "To be added",
                     "To be added",
@@ -1804,7 +1804,7 @@
         },
         "service": {
             "name": "Object Storage",
-            "ref": "https://",
+            "ref": "",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -1871,8 +1871,8 @@
         ],
         "oracle": [
             {
-                "name": "Object Storage",
-                "ref": "https://cloud.oracle.com/storage",
+                "name": "OCI Object Storage",
+                "ref": "https://www.oracle.com/cloud/storage/object-storage.html",
                 "icon": "storage.png",
                 "Properties": [
                     "Yes",
@@ -1904,8 +1904,8 @@
             "ref": ""
         },
         "service": {
-            "name": "Virtual Machine Disk Storage",
-            "ref": "http://##",
+            "name": "Block Storage",
+            "ref": "",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -1996,8 +1996,8 @@
         ],
         "oracle": [
             {
-                "name": "Block Storage",
-                "ref": "https://cloud.oracle.com/en_US/storage/object-storage/features",
+                "name": "OCI Block Volumes",
+                "ref": "https://www.oracle.com/cloud/storage/block-volumes.html",
                 "icon": "storage.png",
                 "Properties": [
                     "Yes",
@@ -2029,8 +2029,9 @@
             "ref": ""
         },
         "service": {
-            "name": "File Storage (SMB Compatible)",
-            "ref": "https://en.wikipedia.org/wiki/Network-attached_storage",
+            "name": "File Storage",
+            "ref": "",
+            "description": "Provides a simple interface to create and configure file systems quickly, and share common files. Can be used with traditional protocols that access files over a network (e.g. SMB, NFS).",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -2152,6 +2153,30 @@
                     "To be added",
                     "To be added"
                 ]
+            },
+            {
+                "name": "S3 Infrequent Access (IA)",
+                "ref": "https://aws.amazon.com/s3/storage-classes",
+                "icon": "aws.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "S3 Intelligent Tiering",
+                "ref": "",
+                "icon": "aws.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
             }
         ],
         "azure": [
@@ -2234,8 +2259,8 @@
         ],
         "oracle": [
             {
-                "name": "Archive Storage",
-                "ref": "https://cloud.oracle.com/storage-classic/archive-storage/features",
+                "name": "OCI Archive Storage",
+                "ref": "https://www.oracle.com/cloud/storage/archive-storage.html",
                 "icon": "storage.png",
                 "Properties": [
                     "Yes",
@@ -2267,8 +2292,111 @@
             "ref": ""
         },
         "service": {
+            "name": "Backup",
+            "ref": "",
+            "description": "Back up and recover files and folders from the cloud, and provide offsite protection against data loss.",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "AWS Backup",
+                "ref": "https://aws.amazon.com/backup",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Backup",
+                "ref": "https://azure.microsoft.com/services/backup",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Storage",
+            "ref": ""
+        },
+        "service": {
             "name": "Hybrid Storage/Storage Gateway",
             "ref": "https://en.wikipedia.org/wiki/Cloud_storage_gateway",
+            "description":"Integrates on-premises IT environments with cloud storage. Automates data management and storage, plus supports disaster recovery.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -2651,6 +2779,7 @@
         "service": {
             "name": "Non Relational Database Management Service",
             "ref": "https://en.wikipedia.org/wiki/NoSQL",
+            "description": "A globally distributed, multi-model database that natively supports multiple data models: key-value, documents, graphs, and columnar.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -2664,6 +2793,30 @@
                 "name": "Amazon DynamoDB",
                 "ref": "https://aws.amazon.com/dynamodb/",
                 "icon": "Database_AmazonDynamoDB.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Amazon SimpleDB",
+                "ref": "https://aws.amazon.com/simpledb",
+                "icon": "aws.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Amazon DocumentDB",
+                "ref": "https://aws.amazon.com/documentdb",
+                "icon": "aws.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -2801,8 +2954,8 @@
         ],
         "oracle": [
             {
-                "name": "NoSQL Database",
-                "ref": "https://www.oracle.com/database/nosql/index.html",
+                "name": "NoSQL Database Cloud Service",
+                "ref": "https://www.oracle.com/database/nosql-cloud.html",
                 "icon": "NoSQL.png",
                 "Properties": [
                     "Yes",
@@ -2914,9 +3067,9 @@
         ],
         "oracle": [
             {
-                "name": "n/a",
+                "name": "Oracle Database",
                 "ref": "",
-                "icon": "none.png",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -4030,7 +4183,7 @@
             "ref": ""
         },
         "service": {
-            "name": "Network Gateway",
+            "name": "VPN Gateway",
             "ref": "",
             "Properties": [
                 "To be added",
@@ -7945,8 +8098,8 @@
         ],
         "oracle": [
             {
-                "name": "n/a",
-                "ref": "",
+                "name": "DDos Protection",
+                "ref": "https://docs.cloud.oracle.com/en-us/iaas/Content/EdgeServices/overview.htm",
                 "icon": "none.png",
                 "Properties": [
                     "Yes",
@@ -7980,6 +8133,7 @@
         "service": {
             "name": "Web Application Firewall",
             "ref": "",
+            "description": "A firewall that protects web applications from common web exploits.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -8004,8 +8158,20 @@
         ],
         "azure": [
             {
-                "name": "Azure WAF",
-                "ref": "",
+                "name": "Azure Application Gateway - Web Application Firewall",
+                "ref": "https://docs.microsoft.com/azure/application-gateway/application-gateway-web-application-firewall-overview",
+                "icon": "Firewall.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Azure Firewall",
+                "ref": "https://azure.microsoft.com/services/azure-firewall",
                 "icon": "Firewall.png",
                 "Properties": [
                     "To be added",
@@ -9902,7 +10068,7 @@
         "aws": [
             {
                 "name": "Amazon API Gateway",
-                "ref": "",
+                "ref": "https://aws.amazon.com/api-gateway",
                 "icon": "Application-Services_AmazonAPIGateway.png",
                 "Properties": [
                     "To be added",
@@ -9916,7 +10082,7 @@
         "azure": [
             {
                 "name": "Azure API Management",
-                "ref": "",
+                "ref": "https://azure.microsoft.com/services/api-management",
                 "icon": "Azure API Management.png",
                 "Properties": [
                     "To be added",
@@ -10757,6 +10923,108 @@
             "ref": ""
         },
         "service": {
+            "name": "Traffic Accelerator",
+            "ref": "",
+            "description": "Join distributed microservices architectures into a single global application using HTTP load balancing and path-based routing rules. Automate turning up new regions and scale-out with API-driven global actions, and independent fault-tolerance to back end microservices.",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "AWS Global Accelerator",
+                "ref": "https://aws.amazon.com/global-accelerator",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Azure Front Door",
+                "ref": "https://azure.microsoft.com/services/frontdoor",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Application Services",
+            "ref": ""
+        },
+        "service": {
             "name": "API Management Service",
             "ref": "",
             "Properties": [
@@ -10770,7 +11038,7 @@
         "aws": [
             {
                 "name": "Amazon API Gateway",
-                "ref": "",
+                "ref": "https://aws.amazon.com/api-gateway",
                 "icon": "Application-Services_AmazonAPIGateway.png",
                 "Properties": [
                     "To be added",
@@ -10784,7 +11052,7 @@
         "azure": [
             {
                 "name": "Azure API Management",
-                "ref": "",
+                "ref": "https://azure.microsoft.com/services/api-management",
                 "icon": "Azure API Management.png",
                 "Properties": [
                     "To be added",
@@ -10873,9 +11141,21 @@
         ],
         "oracle": [
             {
-                "name": "n/a",
-                "ref": "",
-                "icon": "none.png",
+                "name": "API Platform",
+                "ref": "https://www.oracle.com/cloud/integration/api-platform-cloud/",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "API Gateway",
+                "ref": "https://www.oracle.com/cloud/cloud-native/api-gateway/",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
