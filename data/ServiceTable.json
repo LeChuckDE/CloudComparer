@@ -162,7 +162,7 @@
   },
   {
     "category": "Database",
-    "service": "Non Relational Database Management Service",
+    "service": "NoSQL Database Service",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/dynamodb/\" target=\"_blank\">Amazon DynamoDB</a></li><li><a href=\"https://aws.amazon.com/simpledb\" target=\"_blank\">Amazon SimpleDB</a></li><li><a href=\"https://aws.amazon.com/documentdb\" target=\"_blank\">Amazon DocumentDB</a></li><li><a href=\"https://aws.amazon.com/dynamodb/dax/\" target=\"_blank\">Amazon DynamoDB Accelerator (DAX)</a></li><li><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a></li></ul>",
     "azure": "<ul><li><a href=\"https://docs.microsoft.com/en-us/azure/cosmos-db/\" target=\"_blank\">Azure CosmosDB</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/storage/tables/\" target=\"_blank\">Table Storage</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/time-series-insights/\" target=\"_blank\">Azure Time Series Insights</a></li></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/database/nosql-cloud.html\" target=\"_blank\">NoSQL Database Cloud Service</a></li></ul>"
@@ -276,7 +276,7 @@
     "category": "Hybrid Cloud",
     "service": "Hybrid Cloud",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/outposts/\" target=\"_blank\">AWS Outposts</a></li></ul>",
-    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/azure-arc/\" target=\"_blank\">Azure Arc</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/azure-arc/\" target=\"_blank\">Azure Arc</a></li><li><a href=\"hhttps://azure.microsoft.com/overview/azure-stack/\" target=\"_blank\">Azure Stack</a></li></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/cloud-at-customer.html\" target=\"_blank\">Exadata Cloud At Customer</a></li></ul>"
   },
   {
@@ -529,7 +529,14 @@
     "service": "Cloud ETL",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/datapipeline/\" target=\"_blank\">AWS Data Pipeline</a></li><li><a href=\"https://aws.amazon.com/glue/\" target=\"_blank\">AWS Glue</a></li><li><a href=\"https://aws.amazon.com/swf/\" target=\"_blank\">Amazon Simple Workflow Service (SWF)</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/data-factory/\" target=\"_blank\">Azure Data Factory</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/data-catalog/\" target=\"_blank\">Azure Data Catalog</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/logic-apps/\" target=\"_blank\">Logic Apps</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/data-integrator\" target=\"_blank\">Data Integrator</a></li></ul>"
+    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/data-integrator\" target=\"_blank\">Data Integrator</a></li><li><a href=\"https://www.oracle.com/big-data/big-data-service/\" target=\"_blank\">Big Data Service</a></li><li><a href=\"https://www.oracle.com/big-data/big-data-sql/\" target=\"_blank\">Big Data SQL Cloud Service</a></li></ul>"
+  },
+  {
+    "category": "Big Data & Advanced Analytics",
+    "service": "Data Catalog",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/glue\" target=\"_blank\">AWS Glue</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/data-catalog\" target=\"_blank\">Data Catalog</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://www.oracle.com/big-data/data-catalog/\" target=\"_blank\">Data Catalog</a></li></ul>"
   },
   {
     "category": "Artificial Intelligence",
@@ -611,7 +618,7 @@
   {
     "category": "Mobile Services",
     "service": "Application Services",
-    "aws": "<ul><li>AWS Step Functions</li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/step-functions\" target=\"_blank\">AWS Step Functions</a></li></ul>",
     "azure": "<ul><li><a href=\"https://flow.microsoft.com/\" target=\"_blank\">Microsoft Flow</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/logic-apps/\" target=\"_blank\">Logic Apps</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/functions/\" target=\"_blank\">Azure Functions</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/event-grid/\" target=\"_blank\">Event Grid</a></li><li>Azure App Service WebJobs</li></ul>",
     "oci": "<ul><li>Functions</li></ul>"
   },
@@ -688,7 +695,7 @@
   {
     "category": "Application Services",
     "service": "Chatbot",
-    "aws": "<ul><li>Lex Chatbots</li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/de/lex/\" target=\"_blank\">Amazon Lex Chatbots</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/bot-service/\" target=\"_blank\">Azure Bot Service</a></li></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/blockchain\" target=\"_blank\">Oracle Chatbots</a></li></ul>"
   },
@@ -698,6 +705,13 @@
     "aws": "<ul><li><a href=\"https://aws.amazon.com/workdocs/\" target=\"_blank\">Amazon WorkDocs</a></li><li><a href=\"https://aws.amazon.com/workmail\" target=\"_blank\">Amazon WorkMail</a></li></ul>",
     "azure": "<ul><li><a href=\"https://products.office.com/\" target=\"_blank\">Microsoft Office 365</a></li></ul>",
     "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/content-and-experience-management/\" target=\"_blank\">Oracle Content & Experience</a></li></ul>"
+  },
+  {
+    "category": "Business Productivity",
+    "service": "Virtual Desktop",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/de/workspaces/\" target=\"_blank\">Amazon WorkSpaces</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/virtual-desktop/\" target=\"_blank\">Windows Virtual Desktop</a></li></ul>",
+    "oci": "<ul><li>n/a</li></ul>"
   },
   {
     "category": "Business Productivity",

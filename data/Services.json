@@ -2777,7 +2777,7 @@
             "ref": "https://en.wikipedia.org/wiki/NoSQL"
         },
         "service": {
-            "name": "Non Relational Database Management Service",
+            "name": "NoSQL Database Service",
             "ref": "https://en.wikipedia.org/wiki/NoSQL",
             "description": "A globally distributed, multi-model database that natively supports multiple data models: key-value, documents, graphs, and columnar.",
             "Properties": [
@@ -4627,6 +4627,18 @@
             {
                 "name": "Azure Arc",
                 "ref": "https://azure.microsoft.com/en-in/services/azure-arc/",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Azure Stack",
+                "ref": "hhttps://azure.microsoft.com/overview/azure-stack/",
                 "icon": "azure.png",
                 "Properties": [
                     "Yes",
@@ -9289,6 +9301,32 @@
                     "To be added"
                 ]
             }
+            ,
+            {
+                "name": "Big Data Service",
+                "ref": "https://www.oracle.com/big-data/big-data-service/",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+            ,
+            {
+                "name": "Big Data SQL Cloud Service",
+                "ref": "https://www.oracle.com/big-data/big-data-sql/",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
         ],
         "alibaba": [
             {
@@ -9307,6 +9345,109 @@
                 "name": "Data Integration",
                 "ref": "https://www.alibabacloud.com/product/data-integration",
                 "icon": "alibaba.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+
+    {
+        "category": {
+            "name": "Big Data & Advanced Analytics",
+            "ref": ""
+        },
+        "service": {
+            "name": "Data Catalog",
+            "ref": "",
+            "description": "Metadata management service that helps organizations find and govern data using an organized inventory of data assets across the enterprise.",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "AWS Glue",
+                "ref": "https://aws.amazon.com/glue",
+                "icon": "aws.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Data Catalog",
+                "ref": "https://azure.microsoft.com/services/data-catalog",
+                "icon": "azure.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "Data Catalog",
+                "ref": "https://www.oracle.com/big-data/data-catalog/",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10760,7 +10901,7 @@
         "aws": [
             {
                 "name": "AWS Step Functions",
-                "ref": "",
+                "ref": "https://aws.amazon.com/step-functions",
                 "icon": "aws.png",
                 "Properties": [
                     "To be added",
@@ -12172,8 +12313,8 @@
         },
         "aws": [
             {
-                "name": "Lex Chatbots",
-                "ref": "",
+                "name": "Amazon Lex Chatbots",
+                "ref": "https://aws.amazon.com/de/lex/",
                 "icon": "aws.png",
                 "Properties": [
                     "To be added",
@@ -12344,6 +12485,107 @@
                 "name": "Oracle Content & Experience",
                 "ref": "https://www.oracle.com/cloud/content-and-experience-management/",
                 "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "alibaba": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "name": "Business Productivity",
+            "ref": ""
+        },
+        "service": {
+            "name": "Virtual Desktop",
+            "ref": "",
+            "Properties": [
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added",
+                "To be added"
+            ]
+        },
+        "aws": [
+            {
+                "name": "Amazon WorkSpaces",
+                "ref": "https://aws.amazon.com/de/workspaces/",
+                "icon": "aws.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "azure": [
+            {
+                "name": "Windows Virtual Desktop",
+                "ref": "https://azure.microsoft.com/services/virtual-desktop/",
+                "icon": "azure.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "google": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "ibm": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            }
+        ],
+        "oracle": [
+            {
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
                 "Properties": [
                     "Yes",
                     "To be added",
