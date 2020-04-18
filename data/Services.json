@@ -5452,6 +5452,18 @@
                     "To be added",
                     "To be added"
                 ]
+            },
+            {
+                "name": "Developer Cloud Service",
+                "ref": "https://cloud.oracle.com/en_US/developer-service/features",
+                "icon": "developer.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
             }
         ],
         "alibaba": [
@@ -5789,7 +5801,31 @@
             {
                 "name": "Azure Resource Manager",
                 "ref": "https://azure.microsoft.com/en-us/features/resource-manager/",
-                "icon": "Resource Group.png",
+                "icon": "azure.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "VM Extensions",
+                "ref": "https://docs.microsoft.com/azure/virtual-machines/extensions/features-windows?toc=/azure/virtual-machines/windows/toc.json",
+                "icon": "azure.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Azure Automation",
+                "ref": "https://azure.microsoft.com/services/automation",
+                "icon": "azure.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -5801,7 +5837,7 @@
             {
                 "name": "Azure Building Blocks",
                 "ref": "https://azure.microsoft.com/en-in/resources/videos/azure-building-blocks-20-azbb/",
-                "icon": "Resource Group.png",
+                "icon": "azure.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -5853,8 +5889,8 @@
         ],
         "oracle": [
             {
-                "name": "Stack Manager",
-                "ref": "https://docs.oracle.com/cloud/latest/stack-manager-cloud/index.html",
+                "name": "Resource Manager",
+                "ref": "https://www.oracle.com/cloud/systems-management/resource-manager/",
                 "icon": "oracle.png",
                 "Properties": [
                     "Yes",
@@ -6282,6 +6318,7 @@
         "service": {
             "name": "Server Automation",
             "ref": "",
+            "description": "Configures and operates applications of all shapes and sizes, and provides templates to create and manage a collection of resources.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -6372,9 +6409,9 @@
         ],
         "oracle": [
             {
-                "name": "Oracle Orchestration Cloud Service",
-                "ref": "https://cloud.oracle.com/en_US/orchestration",
-                "icon": "oracle.png",
+                "name": "n/a",
+                "ref": "",
+                "icon": "none.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -6744,7 +6781,7 @@
         },
         "aws": [
             {
-                "name": "AWS Command Line Interface",
+                "name": "AWS Command Line Interface (CLI)",
                 "ref": "",
                 "icon": "SDKs_AWSCLI.png",
                 "Properties": [
@@ -6770,7 +6807,7 @@
         ],
         "azure": [
             {
-                "name": "Azure Command Line Interface",
+                "name": "Azure Command Line Interface (CLI)",
                 "ref": "",
                 "icon": "Microsoft Azure.png",
                 "Properties": [
@@ -6884,7 +6921,7 @@
         ],
         "oracle": [
             {
-                "name": "OCI CLI",
+                "name": "OCI Command Line Interface (CLI)",
                 "ref": "",
                 "icon": "oracle.png",
                 "Properties": [
@@ -9967,8 +10004,20 @@
         "aws": [
             {
                 "name": "AWS Mobile Hub",
-                "ref": "",
+                "ref": "https://aws.amazon.com/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications",
                 "icon": "Mobile-Services_AWSMobileHub.png",
+                "Properties": [
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "AWS Mobile SDK",
+                "ref": "https://docs.aws.amazon.com/mobile-sdk",
+                "icon": "aws.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -9980,9 +10029,9 @@
         ],
         "azure": [
             {
-                "name": "Azure Mobile Apps",
-                "ref": "https://azure.microsoft.com/en-us/services/app-service/mobile/",
-                "icon": "Azure App Service - Mobile App (was Mobile Services).png",
+                "name": "Azure App Center",
+                "ref": "https://azure.microsoft.com/services/app-center",
+                "icon": "azure.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10022,9 +10071,33 @@
         ],
         "oracle": [
             {
-                "name": "Mobile & Chatbots",
-                "ref": "https://cloud.oracle.com/en_US/mobile/features",
+                "name": "Visual Builder",
+                "ref": "https://www.oracle.com/application-development/cloud-services/visual-builder/",
                 "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Developer Cloud",
+                "ref": "https://www.oracle.com/application-development/cloud-services/developer-service/",
+                "icon": "oracle.png",
+                "Properties": [
+                    "Yes",
+                    "To be added",
+                    "To be added",
+                    "To be added",
+                    "To be added"
+                ]
+            },
+            {
+                "name": "Mobile Hub",
+                "ref": "https://www.oracle.com/application-development/cloud-services/mobile/",
+                "icon": "mobile.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -10158,6 +10231,7 @@
         "service": {
             "name": "Web/Mobile Authentication Services",
             "ref": "",
+            "description": "Provides authentication capabilities for mobile applications.",
             "Properties": [
                 "To be added",
                 "To be added",
@@ -10169,7 +10243,7 @@
         "aws": [
             {
                 "name": "Amazon Cognito",
-                "ref": "",
+                "ref": "https://aws.amazon.com/cognito",
                 "icon": "Mobile-Services_AmazonCognito.png",
                 "Properties": [
                     "To be added",
@@ -10182,9 +10256,9 @@
         ],
         "azure": [
             {
-                "name": "Azure Mobile SDK,Offline/Sync",
-                "ref": "",
-                "icon": "Azure SDK.png",
+                "name": "Azure App Center",
+                "ref": "https://azure.microsoft.com/services/app-center",
+                "icon": "azure.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10472,7 +10546,7 @@
         "aws": [
             {
                 "name": "AWS Device Farm",
-                "ref": "",
+                "ref": "https://aws.amazon.com/device-farm",
                 "icon": "Mobile-Services_AWSDeviceFarm.png",
                 "Properties": [
                     "To be added",
@@ -10497,9 +10571,9 @@
                 ]
             },
             {
-                "name": "Azure DevTest Labs (Back End)",
-                "ref": "",
-                "icon": "Azure DevTest Labs.png",
+                "name": "Azure App Center",
+                "ref": "https://azure.microsoft.com/services/app-center",
+                "icon": "azure.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10848,9 +10922,9 @@
         ],
         "azure": [
             {
-                "name": "Hockey App",
-                "ref": "https://azure.microsoft.com/en-in/services/hockeyapp/",
-                "icon": "Microsoft Flow.png",
+                "name": "Azure App Center",
+                "ref": "https://azure.microsoft.com/services/app-center",
+                "icon": "azure.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -10890,8 +10964,8 @@
         ],
         "oracle": [
             {
-                "name": "Mobile Cloud Service",
-                "ref": "https://cloud.oracle.com/mobile",
+                "name": "Mobile Hub",
+                "ref": "https://www.oracle.com/application-development/cloud-services/mobile/",
                 "icon": "mobile.png",
                 "Properties": [
                     "Yes",
@@ -12200,7 +12274,7 @@
         "aws": [
             {
                 "name": "Amazon WorkDocs",
-                "ref": "",
+                "ref": "https://aws.amazon.com/workdocs/",
                 "icon": "Enterprise-Applications_AmazonWorkDocs.png",
                 "Properties": [
                     "To be added",
@@ -12212,20 +12286,8 @@
             },
             {
                 "name": "Amazon WorkMail",
-                "ref": "",
+                "ref": "https://aws.amazon.com/workmail",
                 "icon": "Enterprise-Applications_AmazonWorkMail.png",
-                "Properties": [
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added",
-                    "To be added"
-                ]
-            },
-            {
-                "name": "Amazon WorkSpaces",
-                "ref": "",
-                "icon": "Enterprise-Applications_AmazonWorkSpaces.png",
                 "Properties": [
                     "To be added",
                     "To be added",
@@ -12238,7 +12300,7 @@
         "azure": [
             {
                 "name": "Microsoft Office 365",
-                "ref": "",
+                "ref": "https://products.office.com/",
                 "icon": "Office 365.png",
                 "Properties": [
                     "To be added",
@@ -12279,9 +12341,9 @@
         ],
         "oracle": [
             {
-                "name": "n/a",
-                "ref": "",
-                "icon": "none.png",
+                "name": "Oracle Content & Experience",
+                "ref": "https://www.oracle.com/cloud/content-and-experience-management/",
+                "icon": "oracle.png",
                 "Properties": [
                     "Yes",
                     "To be added",
@@ -13072,7 +13134,7 @@
         ],
         "azure": [
             {
-                "name": "Azure Dev/Test",
+                "name": "Azure DevTest Labs",
                 "ref": "https://azure.microsoft.com/en-in/services/devtest-lab/",
                 "icon": "Azure DevTest Labs.png",
                 "Properties": [

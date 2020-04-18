@@ -319,7 +319,7 @@
     "service": "Cloud Software Development Kit",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/cloud9/\" target=\"_blank\">AWS Cloud9</a></li><li><a href=\"https://aws.amazon.com/codestar/\" target=\"_blank\">AWS Code Star</a></li><li><a href=\"https://aws.amazon.com/codecommit/\" target=\"_blank\">AWS CodeCommit</a></li><li><a href=\"https://aws.amazon.com/codebuild/\" target=\"_blank\">AWS CodeBuild</a></li><li><a href=\"https://aws.amazon.com/codedeploy/\" target=\"_blank\">AWS CodeDeploy</a></li><li><a href=\"https://aws.amazon.com/codepipeline\" target=\"_blank\">AWS CodePipeline</a></li><li><a href=\"https://aws.amazon.com/xray/\" target=\"_blank\">AWS X-Ray</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/devops/boards/\" target=\"_blank\">Azure Boards</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/devops/pipelines/\" target=\"_blank\">Azure Pipelines</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/devops/repos/\" target=\"_blank\">Azure Repos</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/devops/test-plans/\" target=\"_blank\">Azure Test Plans</a></li><li><a href=\"https://azure.microsoft.com/en-in/services/devops/artifacts/\" target=\"_blank\">Azure Artifacts</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/developer-service/features\" target=\"_blank\">Developer Cloud Service</a></li></ul>"
+    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/developer-service/features\" target=\"_blank\">Developer Cloud Service</a></li><li><a href=\"https://cloud.oracle.com/en_US/developer-service/features\" target=\"_blank\">Developer Cloud Service</a></li></ul>"
   },
   {
     "category": "Developer Tools",
@@ -339,8 +339,8 @@
     "category": "Management Tools",
     "service": "Cloud Deployment Templates/ Infra as Code",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/cloudformation/\" target=\"_blank\">AWS CloudFormation</a></li></ul>",
-    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/features/resource-manager/\" target=\"_blank\">Azure Resource Manager</a></li><li><a href=\"https://azure.microsoft.com/en-in/resources/videos/azure-building-blocks-20-azbb/\" target=\"_blank\">Azure Building Blocks</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://docs.oracle.com/cloud/latest/stack-manager-cloud/index.html\" target=\"_blank\">Stack Manager</a></li></ul>"
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/features/resource-manager/\" target=\"_blank\">Azure Resource Manager</a></li><li><a href=\"https://docs.microsoft.com/azure/virtual-machines/extensions/features-windows?toc=/azure/virtual-machines/windows/toc.json\" target=\"_blank\">VM Extensions</a></li><li><a href=\"https://azure.microsoft.com/services/automation\" target=\"_blank\">Azure Automation</a></li><li><a href=\"https://azure.microsoft.com/en-in/resources/videos/azure-building-blocks-20-azbb/\" target=\"_blank\">Azure Building Blocks</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/systems-management/resource-manager/\" target=\"_blank\">Resource Manager</a></li></ul>"
   },
   {
     "category": "Management Tools",
@@ -361,7 +361,7 @@
     "service": "Server Automation",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/opsworks/\" target=\"_blank\">AWS OpsWorks</a></li></ul>",
     "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/features/resource-manager/\" target=\"_blank\">Resource Manager</a></li><li><a href=\"https://docs.microsoft.com/en-us/azure/automation/\" target=\"_blank\">Azure Automation</a></li><li><a href=\"https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-extensions-features\" target=\"_blank\">VM Extentions</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/orchestration\" target=\"_blank\">Oracle Orchestration Cloud Service</a></li></ul>"
+    "oci": "<ul><li>n/a</li></ul>"
   },
   {
     "category": "Management Tools",
@@ -387,9 +387,9 @@
   {
     "category": "Management Tools",
     "service": "Cloud Management Tools",
-    "aws": "<ul><li>AWS Command Line Interface</li><li>AWS Management Console</li></ul>",
-    "azure": "<ul><li>Azure Command Line Interface</li><li><a href=\"https://docs.microsoft.com/en-us/powershell/azure/overview?view=azurermps-6.3.0\" target=\"_blank\">Azure Powershell</a></li><li>Azure Management Console</li><li><a href=\"https://azure.microsoft.com/en-us/features/cloud-shell/\" target=\"_blank\">Azure Cloud Shell</a></li></ul>",
-    "oci": "<ul><li>OCI CLI</li><li>OCI Cloud Shell</li><li>Oracle Management Console</li><li><a href=\"https://apicatalog.oraclecloud.com/ui/\" target=\"_blank\">API Catalog</a></li></ul>"
+    "aws": "<ul><li>AWS Command Line Interface (CLI)</li><li>AWS Management Console</li></ul>",
+    "azure": "<ul><li>Azure Command Line Interface (CLI)</li><li><a href=\"https://docs.microsoft.com/en-us/powershell/azure/overview?view=azurermps-6.3.0\" target=\"_blank\">Azure Powershell</a></li><li>Azure Management Console</li><li><a href=\"https://azure.microsoft.com/en-us/features/cloud-shell/\" target=\"_blank\">Azure Cloud Shell</a></li></ul>",
+    "oci": "<ul><li>OCI Command Line Interface (CLI)</li><li>OCI Cloud Shell</li><li>Oracle Management Console</li><li><a href=\"https://apicatalog.oraclecloud.com/ui/\" target=\"_blank\">API Catalog</a></li></ul>"
   },
   {
     "category": "Management Tools",
@@ -562,9 +562,9 @@
   {
     "category": "Mobile Services",
     "service": "Mobile App Development Services",
-    "aws": "<ul><li>AWS Mobile Hub</li></ul>",
-    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-us/services/app-service/mobile/\" target=\"_blank\">Azure Mobile Apps</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/en_US/mobile/features\" target=\"_blank\">Mobile & Chatbots</a></li></ul>"
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/blogs/aws/aws-mobile-hub-build-test-and-monitor-mobile-applications\" target=\"_blank\">AWS Mobile Hub</a></li><li><a href=\"https://docs.aws.amazon.com/mobile-sdk\" target=\"_blank\">AWS Mobile SDK</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/app-center\" target=\"_blank\">Azure App Center</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://www.oracle.com/application-development/cloud-services/visual-builder/\" target=\"_blank\">Visual Builder</a></li><li><a href=\"https://www.oracle.com/application-development/cloud-services/developer-service/\" target=\"_blank\">Developer Cloud</a></li><li><a href=\"https://www.oracle.com/application-development/cloud-services/mobile/\" target=\"_blank\">Mobile Hub</a></li></ul>"
   },
   {
     "category": "Mobile Services",
@@ -576,8 +576,8 @@
   {
     "category": "Mobile Services",
     "service": "Web/Mobile Authentication Services",
-    "aws": "<ul><li>Amazon Cognito</li></ul>",
-    "azure": "<ul><li>Azure Mobile SDK,Offline/Sync</li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/cognito\" target=\"_blank\">Amazon Cognito</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/app-center\" target=\"_blank\">Azure App Center</a></li></ul>",
     "oci": "<ul><li><a href=\"https://cloud.oracle.com/mobile\" target=\"_blank\">Mobile Cloud Service</a></li></ul>"
   },
   {
@@ -597,8 +597,8 @@
   {
     "category": "Mobile Services",
     "service": "Mobile App Testing Service",
-    "aws": "<ul><li>AWS Device Farm</li></ul>",
-    "azure": "<ul><li>Xamarin Test Cloud (Front End)</li><li>Azure DevTest Labs (Back End)</li></ul>",
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/device-farm\" target=\"_blank\">AWS Device Farm</a></li></ul>",
+    "azure": "<ul><li>Xamarin Test Cloud (Front End)</li><li><a href=\"https://azure.microsoft.com/services/app-center\" target=\"_blank\">Azure App Center</a></li></ul>",
     "oci": "<ul><li>n/a</li></ul>"
   },
   {
@@ -619,8 +619,8 @@
     "category": "Mobile Services",
     "service": "Mobile App Analytics",
     "aws": "<ul><li><a href=\"https://aws.amazon.com/mobileanalytics/\" target=\"_blank\">Amazon Mobile Analytics</a></li></ul>",
-    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/hockeyapp/\" target=\"_blank\">Hockey App</a></li></ul>",
-    "oci": "<ul><li><a href=\"https://cloud.oracle.com/mobile\" target=\"_blank\">Mobile Cloud Service</a></li></ul>"
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/services/app-center\" target=\"_blank\">Azure App Center</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://www.oracle.com/application-development/cloud-services/mobile/\" target=\"_blank\">Mobile Hub</a></li></ul>"
   },
   {
     "category": "Application Services",
@@ -695,9 +695,9 @@
   {
     "category": "Business Productivity",
     "service": "Office Document Solutions",
-    "aws": "<ul><li>Amazon WorkDocs</li><li>Amazon WorkMail</li><li>Amazon WorkSpaces</li></ul>",
-    "azure": "<ul><li>Microsoft Office 365</li></ul>",
-    "oci": "<ul><li>n/a</li></ul>"
+    "aws": "<ul><li><a href=\"https://aws.amazon.com/workdocs/\" target=\"_blank\">Amazon WorkDocs</a></li><li><a href=\"https://aws.amazon.com/workmail\" target=\"_blank\">Amazon WorkMail</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://products.office.com/\" target=\"_blank\">Microsoft Office 365</a></li></ul>",
+    "oci": "<ul><li><a href=\"https://www.oracle.com/cloud/content-and-experience-management/\" target=\"_blank\">Oracle Content & Experience</a></li></ul>"
   },
   {
     "category": "Business Productivity",
@@ -752,7 +752,7 @@
     "category": "Development & Testing",
     "service": "Development & Testing",
     "aws": "<ul><li>AWS Dev/Test</li></ul>",
-    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/devtest-lab/\" target=\"_blank\">Azure Dev/Test</a></li></ul>",
+    "azure": "<ul><li><a href=\"https://azure.microsoft.com/en-in/services/devtest-lab/\" target=\"_blank\">Azure DevTest Labs</a></li></ul>",
     "oci": "<ul><li>n/a</li></ul>"
   },
   {
